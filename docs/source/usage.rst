@@ -3,7 +3,7 @@ Agrivoltaics
 
 .. _installation:
 
-Installation
+Definition
 ------------
 
 To use Lumache, first install it using pip:
