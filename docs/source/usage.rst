@@ -1,4 +1,4 @@
-Usage
+Agrivoltaics
 =====
 
 .. _installation:
