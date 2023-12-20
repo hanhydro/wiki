@@ -18,7 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   refs
+   main
+   ag
    et
    gw_rech
