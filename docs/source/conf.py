@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Agrivoltaics'
+project = 'UW-Madison Agrivoltaics Wiki'
 copyright = '2023, Doe Han'
 author = 'Doe Han'
 
