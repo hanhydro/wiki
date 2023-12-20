@@ -1,8 +1,6 @@
 References
 =====
 
-.. _installation:
-
 Latest updates
 ------------
 (Dec. 20th 2023) 
