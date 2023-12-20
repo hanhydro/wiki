@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Agrivoltaics'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, Doe Han'
+author = 'Doe Han'
 
 release = '0.1'
 version = '0.1.0'
