@@ -9,8 +9,9 @@ The study investigates the AgriVoltaic Systems Development (AVSD), which allow f
 
 Transpiration
 -------------
+1) Marrou, H., Dufour, L., & Wery, J. (2013). How does a shelter of solar panels influence water flows in a soil–crop system?. European Journal of Agronomy, 50, 38-51.
 
-This experiment demonstrated that using photovoltaic panels (PVPs) to shade irrigated vegetable crops can save 14-29% of evapotranspired water, varying with the shade level and crop type. The study used a theoretical framework to identify and rank biophysical processes responsible for water savings under PVPs. Key findings include:
+This article demonstrated that using photovoltaic panels (PVPs) to shade irrigated vegetable crops can save 14-29% of evapotranspired water, varying with the shade level and crop type. The study used a theoretical framework to identify and rank biophysical processes responsible for water savings under PVPs. Key findings include:
 
 1. **AET (actual evapotranspiration) Reduction:** Achieved by decreasing climatic demand due to reduced incident radiation in shaded areas.
 2. **Crop-Specific Responses:** For lettuces, water savings were influenced by increased soil coverage by plants and higher stomatal conductance in response to shading.
