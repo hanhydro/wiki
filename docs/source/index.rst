@@ -15,6 +15,16 @@ Agrivoltaics (AV), or agrophotovoltaics (APV), is an innovative method that inte
 
    The Loheide Hydroecology Lab at the University of Wisconsin-Madison is actively developing and managing this project. For content and details, contact doe.han@wisc.edu.
 
+Latest updates
+------------
+(Dec. 20th 2023) 
+
+
+Current repository
+----------------
+A total of 10 articles are summarized. To search for keywords, please type in the textbox on the upper left corner.
+
+
 Contents
 --------
 
