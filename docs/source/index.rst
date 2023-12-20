@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    usage
-   api
    refs
+   gw_rech
