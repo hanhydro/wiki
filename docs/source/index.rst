@@ -24,3 +24,4 @@ Contents
    ag
    et
    gw_rech
+   hazard
