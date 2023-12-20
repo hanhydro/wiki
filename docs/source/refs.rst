@@ -3,32 +3,11 @@ References
 
 .. _installation:
 
-Definition
+Latest updates
 ------------
+(Dec. 20th 2023) 
 
-To use Lumache, first install it using pip:
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+Current repository
 ----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+A total of 10 articles are summarized. To search for keywords, please type in the textbox on the upper left corner.
