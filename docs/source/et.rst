@@ -13,10 +13,10 @@ Transpiration
 
 This article demonstrated that using photovoltaic panels (PVPs) to shade irrigated vegetable crops can save 14-29% of evapotranspired water, varying with the shade level and crop type. The study used a theoretical framework to identify and rank biophysical processes responsible for water savings under PVPs. Key findings include:
 
-1. **AET (actual evapotranspiration) Reduction:** Achieved by decreasing climatic demand due to reduced incident radiation in shaded areas.
-2. **Crop-Specific Responses:** For lettuces, water savings were influenced by increased soil coverage by plants and higher stomatal conductance in response to shading.
-3. **Sensitivity to Shading:** Soil evaporation was more sensitive to shading than plant transpiration.
-4. **Water Use Efficiency (WUE):** Improved only for some lettuce varieties in higher shade levels. Enhanced WUE could be achieved by selecting crops that rapidly cover the ground, optimizing the transpiration/evaporation (T/E) ratio for given water loss. This strategy is more effective in shaded areas, as it reduces soil evaporation and allows plants with high cover rates to intercept light and photosynthesize more efficiently.
-5. **Stability of WUE:** The study notes that WUE efficiency remains relatively stable, especially when irrigation allows evapotranspiration and biomass production to reach their potential. However, PVPs might be more beneficial for crops under water stress.
+-- **AET (actual evapotranspiration) Reduction:** Achieved by decreasing climatic demand due to reduced incident radiation in shaded areas.
+-- **Crop-Specific Responses:** For lettuces, water savings were influenced by increased soil coverage by plants and higher stomatal conductance in response to shading.
+-- **Sensitivity to Shading:** Soil evaporation was more sensitive to shading than plant transpiration.
+-- **Water Use Efficiency (WUE):** Improved only for some lettuce varieties in higher shade levels. Enhanced WUE could be achieved by selecting crops that rapidly cover the ground, optimizing the transpiration/evaporation (T/E) ratio for given water loss. This strategy is more effective in shaded areas, as it reduces soil evaporation and allows plants with high cover rates to intercept light and photosynthesize more efficiently.
+-- **Stability of WUE:** The study notes that WUE efficiency remains relatively stable, especially when irrigation allows evapotranspiration and biomass production to reach their potential. However, PVPs might be more beneficial for crops under water stress.
 
 The conclusion suggests that while PVPs can improve water efficiency, their impact varies with crop type and irrigation levels, and more research is needed to explore these dynamics further, especially in water-stressed conditions.
