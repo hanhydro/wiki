@@ -1,4 +1,4 @@
-Agrivoltaics
+References
 =====
 
 .. _installation:
