@@ -13,7 +13,7 @@ Agrivoltaics (AV), or agrophotovoltaics (APV), is an innovative method that inte
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. For content and details, contact doe.han@wisc.edu.
 
 Contents
 --------
