@@ -3,6 +3,17 @@ Groundwater Recharge
 
 Vegetation types
 ----------------
+Riley et al. (2019)
++++++++++++++++++++
+Riley, D., Mieno, T., Schoengold, K., & Brozović, N. (2019). The impact of land cover on groundwater recharge in the High Plains: An application to the Conservation Reserve Program. Science of the Total Environment, 696, 133871. https://doi.org/10.1016/j.scitotenv.2019.133871
+
+This study, utilizing USGS and USDA data, evaluates the effect of land cover conversion on groundwater recharge in the Ogallala Aquifer region. It reveals that grassland conversion, promoted by programs like the Conservation Reserve Program (CRP) and the USDA Conservation Reserve Enhancement Program (USDA-CREP), leads to reduced groundwater recharge compared to typical crops like corn and soy in Nebraska's RRB. However, no significant difference in recharge rates is observed between grassland and common crops in Kansas's OAR.
+
+The findings underline the importance of balancing the environmental advantages of CRP and similar programs with their regional impacts on groundwater and funding limitations. These insights can guide policymakers and agency personnel to refine CRP enrollment strategies, considering both positive and negative effects on groundwater levels from land cover changes.
+
+The study acknowledges its focus on immediate impacts of land cover changes, with long-term effects requiring further data. It also notes limitations in the CropScape mapping, such as broad categorization of land cover types and lack of detail on land use practices, which could affect recharge rates differently. Moreover, the study doesn't factor in variable impacts of hydrologically connected groundwater.
+
+Future research should address these limitations and could explore the effects of land cover changes on groundwater quality and identify optimal strategies for correlating groundwater level changes with local conditions. This study serves as an initial step in understanding the environmental trade-offs in programs like CRP, emphasizing the necessity to consider unintended policy impacts.
 
 Soil types
 ----------
