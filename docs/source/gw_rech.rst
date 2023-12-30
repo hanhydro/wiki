@@ -29,3 +29,15 @@ The study explores groundwater recharge in a semiarid loess-terrace agricultural
 Groundwater recharge mainly occurs through vertical infiltration from July to September, with stable isotopes helping to trace this process. Land-use changes significantly impact groundwater recharge; shifting from natural ecosystems to winter wheat cultivation has reduced recharge by 42–50%, and further changing to alfalfa cultivation has almost halted it. These land-use changes result in solute accumulation in the soil, which slowly infiltrates into the groundwater, creating a delay between the increase in solute concentration in the soil and in the groundwater.
 
 The study emphasizes that these land-use changes, leading to reduced groundwater recharge, have significant implications for the availability of regional groundwater resources. Therefore, the new state of reduced recharge should be a key consideration in regional water resource management.
+
+Owuor et al. (2016)
++++++++++++++++++++
+Owuor, S. O., Butterbach-Bahl, K., Guzha, A. C., Rufino, M. C., Pelster, D. E., Díaz-Pinés, E., & Breuer, L. (2016). Groundwater recharge rates and surface runoff response to land use and land cover changes in semi-arid environments. Ecological Processes, 5(1), 1-21. https://doi.org/10.1186/s13717-016-0060-6
+
+The study reveals that land use and land cover (LULC) changes significantly impact groundwater recharge and surface runoff in semi-arid areas. Restoring bare land reduced groundwater recharge from 42% to 6-12% of incoming rainfall. The conversion of forest to other LULC types increased groundwater recharge to 3.4-7.8%, significantly so for all considered final LULC. The relationship between the Aridity Index and groundwater recharge was weak but significant, suggesting stronger changes in recharge after LULC changes in more arid environments.
+
+Rehabilitation of bare land led to decreased surface runoff, with a reduction from 7.3% to 5.2-6.4% depending on the LULC. Conversely, converting forest to managed LULC increased surface runoff to 4.2-14.1%. Grassland conversion to forest reduced runoff from 2.5% to 1.1%. The relationship between surface runoff and the Aridity Index was weak but significant.
+
+The study confirmed the significant effect of topsoil texture on groundwater recharge, with the highest recharges in coarse-textured soils, aligning with previous research.
+
+In conclusion, the conversion of forests to managed LULC types results in increased groundwater recharge and surface runoff. Topsoil texture significantly influences groundwater recharge. Variability in response to LULC changes highlights the need for site-specific studies in semi-arid regions, particularly in Africa. These studies should consider multiple stressors, including LULC, climate, landscape, and soil properties, to understand the full impact of land cover changes.
