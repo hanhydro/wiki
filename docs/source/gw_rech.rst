@@ -17,6 +17,17 @@ Future research should address these limitations and could explore the effects o
 
 Soil types
 ----------
+Nocco et al. (2017)
++++++++++++++++++++
+
+Nocco, M. A., Kraft, G. J., Loheide, S. P., & Kucharik, C. J. (2018). Drivers of potential recharge from irrigated agroecosystems in the Wisconsin Central Sands. Vadose Zone Journal, 17(1), 1-22. https://doi.org/10.2136/vzj2017.01.0008
+
+The study examines the impact of irrigation and land use changes on groundwater recharge in the Northern Great Lakes region, focusing on the WCS landscape where over 14% is irrigated cropland. It finds that climate variability, cropping systems, and soil texture are key factors influencing groundwater recharge. In an average growing season, irrigated sweet corn and potato rotations increase aquifer recharge, whereas irrigated field corn and pea–pearl millet rotations decrease it. Crop residue removal post-harvest to boost recharge is not feasible in WCS due to soil erosion risks and challenges in establishing cover crops.
+
+The study also highlights that potato cropping systems, while recharging the aquifer in an average year, pose a potential risk to groundwater quality. The impact of WCS irrigated agriculture on freshwater resources varies annually due to crop rotations and precipitation differences. Accurate prediction of these impacts requires process-based models that explicitly represent crop rotations, considering factors like market trends, pest management, and climate.
+
+Additionally, the study used replicated passive capillary lysimetry and soil moisture sensors to assess water budget variability across cropping systems. However, this method may overestimate drainage in sandy soils, suggesting the need for future research using different methods like equilibrium tension lysimetry, aerial remote sensing, or eddy covariance, to ensure accurate water resource management in the WCS.
+
 
 Anthropogenic effect
 --------------------
