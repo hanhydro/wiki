@@ -41,3 +41,16 @@ Rehabilitation of bare land led to decreased surface runoff, with a reduction fr
 The study confirmed the significant effect of topsoil texture on groundwater recharge, with the highest recharges in coarse-textured soils, aligning with previous research.
 
 In conclusion, the conversion of forests to managed LULC types results in increased groundwater recharge and surface runoff. Topsoil texture significantly influences groundwater recharge. Variability in response to LULC changes highlights the need for site-specific studies in semi-arid regions, particularly in Africa. These studies should consider multiple stressors, including LULC, climate, landscape, and soil properties, to understand the full impact of land cover changes.
+
+
+Managed aquifer recharge
+------------------------
+Gailey et al. (2019)
+++++++++++++++++++++
+Gailey, R. M., Fogg, G. E., Lund, J. R., & Medellín-Azuara, J. (2019). Maximizing on-farm groundwater recharge with surface reservoir releases: a planning approach and case study in California, USA. Hydrogeology Journal, 27(4), 1183-1206. https://doi.org/10.1007/s10040-019-01936-x
+
+The study finds that on-farm recharge is a viable option for the study area. Utilizing 134,000 acres of cropland could enable approximately 3900 thousand acre-feet (TAF) of recharge over 20 years. However, diminishing returns are expected due to the variability of available water, variations in infiltration rates, and recharged water leaving the groundwater system. Modifying berm heights on croplands with higher infiltration rates and adding gravel pits in high-infiltration areas could increase total recharge to about 5,400 TAF.
+
+The study's methodology is adaptable for additional data, such as soil hydraulic conductivity, geology, infiltration testing, field drainage rates, flooding tolerance of different crops, and specific site costs, including use fees and infrastructure improvements.
+
+Future work could consider financial aspects, groundwater quality protection, support for the Cosumnes River baseflow, and diverse recharge facility types. Continued stakeholder collaboration is crucial for further insights.
