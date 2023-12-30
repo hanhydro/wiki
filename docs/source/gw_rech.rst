@@ -1,7 +1,7 @@
 Groundwater Recharge
 ====================
 
-Vegetation types
+Vegetation types and cover
 ----------------
 Riley et al. (2019)
 +++++++++++++++++++
@@ -14,6 +14,18 @@ The findings underline the importance of balancing the environmental advantages 
 The study acknowledges its focus on immediate impacts of land cover changes, with long-term effects requiring further data. It also notes limitations in the CropScape mapping, such as broad categorization of land cover types and lack of detail on land use practices, which could affect recharge rates differently. Moreover, the study doesn't factor in variable impacts of hydrologically connected groundwater.
 
 Future research should address these limitations and could explore the effects of land cover changes on groundwater quality and identify optimal strategies for correlating groundwater level changes with local conditions. This study serves as an initial step in understanding the environmental trade-offs in programs like CRP, emphasizing the necessity to consider unintended policy impacts.
+
+Zellner et al. (2020)
++++++++++++++++++++++
+Zellner, M., García, G. A., Bert, F., Massey, D., & Nosetto, M. (2020). Exploring reciprocal interactions between groundwater and land cover decisions in flat agricultural areas and variable climate. Environmental Modelling & Software, 126, 104641. https://doi.org/10.1016/j.envsoft.2020.104641
+
+The study introduces 'Hydroman,' a parsimonious, dynamic, spatially explicit model that simulates groundwater and surface water flow in agricultural areas, factoring in land cover and climate. Hydroman effectively models groundwater levels over time and space, validated by experts and alignment with established models and data. It helps understand the interplay between climate, land cover, and water tables, aiding in developing agricultural water management strategies.
+
+The study finds that while climate is a primary factor, land use changes, like the shift from cattle ranching to grain crops, significantly affect the region's water balance. Double cropping can mitigate flooding risks by extending water absorption periods, but may be challenging in waterlogged areas.
+
+Adaptive farming strategies can reduce flooding risks, but their effectiveness depends on accurate environmental information and spatial precision. In highly variable landscapes, strict crop rotation might be more effective. In extreme conditions, adaptation strategies may not prevent flooding, suggesting that reverting partially to pasture, especially in low-lying areas, could stabilize the system.
+
+Future work with Hydroman includes exploring management strategies that consider decisions in neighboring plots, addressing coordination challenges. This could lead to recommendations for pasture allocation to reduce flooding risks, considering the varying impacts on different stakeholders. The study advocates for collaborative approaches using models like Hydroman to enhance the adaptive capacity, resilience, and sustainability of human-natural systems.
 
 Soil types
 ----------
