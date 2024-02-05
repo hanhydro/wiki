@@ -26,7 +26,7 @@ A total of 30 articles are summarized. To search for keywords, please type in th
 
 Studies by soil type
 ----------------------
-.. list-table:: Title
+.. list-table::
    :widths: 25 25 50
    :header-rows: 1
 
