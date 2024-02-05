@@ -37,3 +37,4 @@ Contents
    gw_rech
    hazard
    plan
+   climate
