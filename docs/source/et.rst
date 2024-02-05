@@ -38,3 +38,22 @@ Soil water content measurements up to a depth of 2.0 meters revealed that AFS sy
 Competition for water between coffee plants and shade trees was observed only during severe dry periods, suggesting that, under normal conditions, the system provided adequate water for both. However, prolonged dry spells could induce competition for water resources. The study identified the evergreen Simarouba glauca as a more suitable shade tree compared to Tabebuia rosea due to its consistent and lower water usage, deeper rooting pattern, and lesser competition with coffee plants for water.
 
 Furthermore, shade from trees in AFS significantly reduced soil surface evaporation, a factor further enhanced by the presence of a litter layer, contributing to the system's higher water use efficiency.
+
+
+Feistel et al. (2022)
+++++++++++++++++++++
+Feistel, U., Werisch, S., Marx, P., Kettner, S., Ebermann, J., & Wagner, L. (2022, December). Assessing the impact of shading by solar panels on evapotranspiration and plant growth using lysimeters. In AIP conference proceedings (Vol. 2635, No. 1). AIP Publishing. https://doi.org/10.1063/5.0103124.
+
+This research, centered around a German research station from November 2019 to early April 2020, investigates the effects of solar panel shading on evapotranspiration (ET), soil moisture, and plant growth. The study reveals nuanced interactions between solar panels and environmental parameters that influence agricultural outcomes.
+
+Evapotranspiration beneath the solar panels was found to closely match that of an unshaded reference site, with a slight difference in total ET measurements (163 mm under panels versus 158 mm at the reference site). Notably, the percolation rate at the reference site was significantly higher, with 89.5 mm compared to no detectable seepage under the panels, highlighting the panels' impact on water infiltration.
+
+The study identified a seasonal dependency in ET rates, observing lower ET beneath the panels during the growing season due to diminished solar radiation and cooler soil temperatures. Conversely, in the non-growing season, ET rates increased beneath the panels because the panels trapped outgoing radiation, thereby raising soil temperatures and, subsequently, ET rates.
+
+Supporting observations from a conventional photovoltaic park indicated that soil moisture levels were higher under the panels from late spring to late summer, and soil temperatures were warmer under the panels during winter. These conditions contribute to the elevated winter ET rates observed beneath the panels.
+
+Plant growth dynamics were also affected, with rape plants beneath the panels reaching an average of 20 cm taller than those in unshaded areas by the end of the shading period. However, despite the increased growth in height, yield beneath the panels was lower, suggesting that the reduced light availability during early growth stages may have adversely affected plant development and yield potential.
+
+Global radiation measurements corroborated the significant shading effect of the panels, leading to cooler soil temperatures and reduced transpiration rates during the growing season, thereby resulting in lower ET beneath the panels.
+
+
