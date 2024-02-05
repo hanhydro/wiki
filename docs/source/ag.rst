@@ -58,4 +58,26 @@ The immediate effect of shading was a slight increase in soil water potential du
 
 The study also observed that during minor summer rainfall events, shading could unexpectedly improve plant water status by minimizing evapotranspiration and promoting soil water redistribution in the root zone. Despite its simplicity, the model effectively illustrated the limited effect of shading on soil water potential, underscoring the crucial role of daytime water depletion in facilitating nocturnal soil rehydration.
 
+Medina et al. (2002)
+-------------------
+Photosynthetic response of citrus grown under reflective aluminized polypropylene shading nets
+Medina, C. L., Souza, R. P., Machado, E. C., Ribeiro, R. V., & Silva, J. A. (2002). Photosynthetic response of citrus grown under reflective aluminized polypropylene shading nets. Scientia Horticulturae, 96(1-4), 115-125. https://doi.org/10.1016/S0304-4238(02)00085-7.
+
+This study delved into how reflective aluminized polypropylene shading nets can enhance the photosynthetic performance of citrus plants in greenhouses, which are subjected to the intense heat and vapor pressure deficits characteristic of hot climates. By deploying these nets, the researchers aimed to lessen the negative impacts of such environmental conditions on photosynthesis and overall plant growth.
+
+The installation of these reflective nets notably decreased incident photosynthetically active radiation (PAR) and leaf temperatures, with reductions of 65% in August (winter) and 57% in November (summer), resulting in significantly cooler leaf temperatures during peak heat hours. As a consequence, shaded plants demonstrated improved stomatal conductance and CO2 assimilation rates, achieving an overall 20% increase in daily net CO2 uptake compared to unshaded controls, although these gains were predominantly observed during the midday peak of PAR.
+
+Furthermore, water use efficiency (WUE) was moderately enhanced in shaded plants, suggesting that the nets fostered a more prudent use of water. Importantly, the nets proved effective in preventing photoinhibition, maintaining healthier quantum yields and electron transport rates, thereby safeguarding the plants' photochemical systems from the stress of excess light, which unshaded plants had to regulate through transient photoinhibition.
+
+Observations were made on 'Pera' orange nursery trees in greenhouses, with one greenhouse sheltered by the reflective net during key daylight hours. The research team utilized sophisticated instruments like a portable photosynthesis system and a PAM 2000 fluorometer to measure photosynthetic parameters and chlorophyll fluorescence.
+
+In conclusion, the study affirmed that reflective shading nets substantially boost the photosynthetic performance and growth of citrus plants in greenhouses by enabling more efficient stomatal functioning and bolstering photochemical efficiency under challenging high light and temperature conditions. This suggests that such nets are a valuable tool in optimizing citrus plant productivity in hot, greenhouse environments.
+
+Angmo et al. (2021)
+-------------------
+Effect of shading and high temperature amplitude in greenhouse on growth, photosynthesis, yield and phenolic contents of tomato (Lycopersicum esculentum Mill.)
+Angmo, P., Phuntsog, N., Namgail, D., Chaurasia, O. P., & Stobdan, T. (2021). Effect of shading and high temperature amplitude in greenhouse on growth, photosynthesis, yield and phenolic contents of tomato (Lycopersicum esculentum Mill.). Physiology and Molecular Biology of Plants, 27, 1539-1546.
+https://doi.org/10.1007/s12298-021-01032-z
+
+
 
