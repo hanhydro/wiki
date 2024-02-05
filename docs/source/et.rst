@@ -24,3 +24,17 @@ This article demonstrated that using photovoltaic panels (PVPs) to shade irrigat
 - **Stability of WUE:** The study notes that WUE remains relatively stable, especially when irrigation allows evapotranspiration and biomass production to reach their potential. However, PVPs might be more beneficial for crops under water stress.
 
 The conclusion suggests that while PVPs can improve water efficiency, their impact varies with crop type and irrigation levels, and more research is needed to explore these dynamics further, especially in water-stressed conditions.
+
+Padovan et al. (2018)
+++++++++++++++++++++
+Padovan, M. D. P., Brook, R. M., Barrios, M., Cruz-Castillo, J. B., Vilchez-Mendoza, S. J., Costa, A. N., & Rapidel, B. (2018). Water loss by transpiration and soil evaporation in coffee shaded by Tabebuia rosea Bertol. and Simarouba glauca dc. compared to unshaded coffee in sub-optimal environmental conditions. Agricultural and Forest Meteorology, 248, 1-14. https://doi.org/10.1016/j.agrformet.2017.08.036.
+
+In Nicaragua, a study comparing the water use efficiency of coffee plants grown in agroforestry systems (AFS) with those in full sun systems (FS) under less-than-ideal conditions for coffee cultivation revealed significant differences favoring AFS. The findings showed that AFS was markedly more efficient in water use, with a higher percentage of evapotranspiration attributed to plant transpiration (83% in AFS versus 69% in FS) and lower water loss through soil evaporation (17% in AFS versus 31% in FS), indicating that AFS makes better use of rainfall by channeling it more towards plant use rather than losing it to evaporation.
+
+The study detailed how, within AFS, coffee plants accounted for the majority of water transpiration (72.5%), while the shade trees, deciduous Tabebuia rosea and evergreen Simarouba glauca, contributed to the remainder. Notably, Tabebuia rosea exhibited significantly higher transpiration rates compared to Simarouba glauca, underscoring the impact of shade tree species on water dynamics within the system.
+
+Soil water content measurements up to a depth of 2.0 meters revealed that AFS systems utilized available water reserves more extensively than FS, with lower soil water reserves in AFS indicating a higher overall water use. Coffee plants in AFS also had a higher Leaf Area Index (LAI), making them more efficient on a per leaf area basis, although the higher LAI led to greater overall transpiration in AFS.
+
+Competition for water between coffee plants and shade trees was observed only during severe dry periods, suggesting that, under normal conditions, the system provided adequate water for both. However, prolonged dry spells could induce competition for water resources. The study identified the evergreen Simarouba glauca as a more suitable shade tree compared to Tabebuia rosea due to its consistent and lower water usage, deeper rooting pattern, and lesser competition with coffee plants for water.
+
+Furthermore, shade from trees in AFS significantly reduced soil surface evaporation, a factor further enhanced by the presence of a litter layer, contributing to the system's higher water use efficiency.
