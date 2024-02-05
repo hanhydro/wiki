@@ -15,6 +15,20 @@ The study acknowledges its focus on immediate impacts of land cover changes, wit
 
 Future research should address these limitations and could explore the effects of land cover changes on groundwater quality and identify optimal strategies for correlating groundwater level changes with local conditions. This study serves as an initial step in understanding the environmental trade-offs in programs like CRP, emphasizing the necessity to consider unintended policy impacts.
 
+Ficklin et al. (2010)
++++++++++++++++++++
+Ficklin, D. L., Luedeling, E., & Zhang, M. (2010). Sensitivity of groundwater recharge under irrigated agriculture to changes in climate, CO2 concentrations and canopy structure. Agricultural Water Management, 97(7), 1039-1050. https://doi.org/10.1016/j.agwat.2010.02.009.
+
+The research focuses on the impact of climate change-induced elevations in atmospheric CO2 and temperature on groundwater recharge in California's San Joaquin watershed, specifically under irrigated agriculture. Using the HYDRUS 1D model, the study simulates the hydrologic responses of the vadose zone for alfalfa, almonds, and tomatoes under scenarios of increased CO2 levels (550 and 970 ppm) and temperatures (+1.1 and +6.4 °C from current conditions).
+
+The findings indicate that higher temperatures accelerate plant growth cycles, leading to an earlier distribution of evapotranspiration and irrigation, which in turn reduces groundwater recharge for alfalfa and almonds but increases it for tomatoes due to the crop's unique root growth patterns and irrigation practices. Elevated CO2 concentrations, on the other hand, diminish groundwater recharge across all crops by lowering evapotranspiration rates and subsequently reducing irrigation water usage, highlighting the enhanced water use efficiency of plants at higher CO2 levels.
+
+When both increased CO2 and temperature are considered together, the general outcome is a reduction in groundwater recharge, illustrating the intricate interactions among climatic factors, plant development, and evapotranspiration. Notably, the effects vary among different crops: alfalfa and almonds typically exhibit decreased recharge, while tomatoes sometimes show an increase, stressing the importance of crop-specific responses to these environmental changes.
+
+The implications of this study for agricultural management are significant. It suggests the necessity to adapt water management strategies to accommodate shifts in irrigation timing and the potential for improved crop water efficiency due to climate change. Altering planting seasons to align with faster crop maturation rates could also affect water demand and groundwater recharge trends.
+
+Amid concerns about lower snowpack levels in the California Sierra Nevada and an increased dependency on groundwater, the study underscores the urgency of employing efficient irrigation techniques and water management practices to maintain groundwater resources in the face of changing climate conditions.
+
 Zellner et al. (2020)
 +++++++++++++++++++++
 Zellner, M., García, G. A., Bert, F., Massey, D., & Nosetto, M. (2020). Exploring reciprocal interactions between groundwater and land cover decisions in flat agricultural areas and variable climate. Environmental Modelling & Software, 126, 104641. https://doi.org/10.1016/j.envsoft.2020.104641
