@@ -96,9 +96,9 @@ Studies by climate
    * - Subtropical, humid
      - Fan et al., 2018
      - 30.7058, 103.8624
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   * - Humid, continental
+     - Williams et al., 1993
+     - 41.7579, -111.8135
 
 Studies by plant
 ----------------------
@@ -120,6 +120,8 @@ Studies by plant
      - Fan et al., 2018
    * - Soybean
      - Fan et al., 2018
+   * - Helianthus annuus
+     - Correia et al., 2006
 
 Studies by PV axis
 ----------------------
