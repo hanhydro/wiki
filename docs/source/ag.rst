@@ -1,8 +1,11 @@
 Agronomy
 ===========
 
-Dhonde et al. (2022)
+General agrivoltatics
 -------------------
+
+Dhonde et al. (2022)
+++++++++++++++++++++
 
 Dhonde, M., Sahu, K., & Murty, V. V. S. (2022). The application of solar-driven technologies for the sustainable development of agriculture farming: a comprehensive review. Reviews in Environmental Science and Bio/Technology, 21(1), 139-167. https://doi.org/10.1007/s11157-022-09611-6
 
@@ -12,12 +15,11 @@ The article acknowledges the significant growth in solar PV systems in agricultu
 
 In conclusion, solar-PV technology integration in agriculture is extensive, reducing carbon emissions and increasing productivity. Hybrid technologies enhance creativity and flexibility in applying solar-PV technology in various farming operations. To encourage broader adoption of PV technologies, cost-effective strategies and affordable energy storage solutions are essential.
 
-
 Shading effect
-++++++++++++++++++++
+-------------------
 
 Fan et al. (2018)
--------------------
+++++++++++++++++++++
 Fan, Y., Chen, J., Cheng, Y., Raza, M. A., Wu, X., Wang, Z., ... & Yang, F. (2018). Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system. PloS one, 13(5), e0198159. https://doi.org/10.1371/journal.pone.0198159
 
 The study explored the effects of maize-induced shading on soybeans in a relay-strip intercropping setup, revealing that while shading alters soybean morphology, reduces photosynthetic activity, and changes leaf anatomy, these plants exhibit notable adaptability. Soybeans adjust by growing taller with thinner stems and show a swift rebound in photosynthetic efficiency after maize harvest when light availability increases. Despite initial growth setbacks, soybeans can compensate once full sunlight returns, suggesting that managing light exposure in intercropping systems can enhance both soybean yield and seed quality, optimizing overall agricultural productivity.
@@ -33,7 +35,7 @@ The adaptability of soybeans to changing light conditions has implications for y
 
 
 Correia et al. (2006)
--------------------
+++++++++++++++++++++
 Correia, M. J., Osório, M. L., Osório, J., Barrote, I., Martins, M., & David, M. M. (2006). Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves. Environmental and Experimental Botany, 58(1-3), 75-84. https://doi.org/10.1016/j.envexpbot.2005.06.015.
 
 This study investigates the interplay between light variations, notably the intermittent shading from cloud cover, and plant responses to drought and their subsequent recovery upon rehydration. It reveals that during water scarcity, shading can serve as a protective mechanism, lessening the decline in photosynthesis rate in sunflowers and reducing oxidative stress, which in turn facilitates a quicker recovery of photosynthetic functions upon re-watering, thereby indicating that partial shade can help offset some drought effects.
@@ -46,7 +48,7 @@ The findings present a nuanced picture: while transient shading generally aids w
 
 
 Williams et al. (1993)
--------------------
+++++++++++++++++++++
 Williams, K., Caldwell, M. M., & Richards, J. H. (1993). The influence of shade and clouds on soil water potential: the buffered behavior of hydraulic lift. Plant and Soil, 157, 83-95. https://doi.org/10.1007/BF02390230.
 
 In the sagebrush/bunchgrass steppe of North America's Great Basin, this study set out to understand how shading impacts soil water potential. It was predicted that shading would improve soil water potential by lowering transpiration rates, thus reducing water use during the day and allowing for water release from roots at night. Through a combination of field experiments and modeling, the research assessed the influence of artificial shading on soil moisture.
@@ -56,7 +58,7 @@ The immediate effect of shading was a slight increase in soil water potential du
 The study also observed that during minor summer rainfall events, shading could unexpectedly improve plant water status by minimizing evapotranspiration and promoting soil water redistribution in the root zone. Despite its simplicity, the model effectively illustrated the limited effect of shading on soil water potential, underscoring the crucial role of daytime water depletion in facilitating nocturnal soil rehydration.
 
 Medina et al. (2002)
--------------------
+++++++++++++++++++++
 Medina, C. L., Souza, R. P., Machado, E. C., Ribeiro, R. V., & Silva, J. A. (2002). Photosynthetic response of citrus grown under reflective aluminized polypropylene shading nets. Scientia Horticulturae, 96(1-4), 115-125. https://doi.org/10.1016/S0304-4238(02)00085-7.
 
 This study delved into how reflective aluminized polypropylene shading nets can enhance the photosynthetic performance of citrus plants in greenhouses, which are subjected to the intense heat and vapor pressure deficits characteristic of hot climates. By deploying these nets, the researchers aimed to lessen the negative impacts of such environmental conditions on photosynthesis and overall plant growth.
@@ -70,7 +72,7 @@ Observations were made on 'Pera' orange nursery trees in greenhouses, with one g
 In conclusion, the study affirmed that reflective shading nets substantially boost the photosynthetic performance and growth of citrus plants in greenhouses by enabling more efficient stomatal functioning and bolstering photochemical efficiency under challenging high light and temperature conditions. This suggests that such nets are a valuable tool in optimizing citrus plant productivity in hot, greenhouse environments.
 
 Angmo et al. (2021)
--------------------
+++++++++++++++++++++
 Angmo, P., Phuntsog, N., Namgail, D., Chaurasia, O. P., & Stobdan, T. (2021). Effect of shading and high temperature amplitude in greenhouse on growth, photosynthesis, yield and phenolic contents of tomato (Lycopersicum esculentum Mill.). Physiology and Molecular Biology of Plants, 27, 1539-1546.
 https://doi.org/10.1007/s12298-021-01032-z
 
@@ -83,7 +85,7 @@ However, the introduction of shading reduced the extreme daytime heat by 5.6 °C
 Notably, shading decreased the levels of photosynthetically active radiation inside the greenhouse to just a fraction of what was available in open fields, impeding the plants' photosynthetic efficiency. This was reflected in the nutritional content of the tomatoes, with a 29% decrease in total phenolic content and a 16% decrease in total flavonoid content under shaded conditions. The plants did adapt morphologically to the lower light levels with increased leaf area and stem height, but these changes were insufficient to offset the yield loss.
 
 Lechaudel et al. (2013)
--------------------
+++++++++++++++++++++
 Léchaudel, M., Lopez-Lauri, F., Vidal, V., Sallanon, H., & Joas, J. (2013). Response of the physiological parameters of mango fruit (transpiration, water relations and antioxidant system) to its light and temperature environment. Journal of plant physiology, 170(6), 567-576. https://doi.org/10.1016/j.jplph.2012.11.009.
 
 This study delved into the adaptive strategies of mango fruits to diverse environmental conditions, particularly examining the effects of varying temperatures and light exposures on the fruit's water relations, skin attributes, and antioxidant defenses.
@@ -97,7 +99,7 @@ Additionally, the study found increased lipid peroxidation in fruits exposed to 
 Furthermore, the research showed that both enzymatic and non-enzymatic antioxidants, particularly those involved in the ascorbate-glutathione cycle and ascorbate content, were markedly elevated in the peels of sun-exposed fruits, highlighting a robust defense against the environmental stressors.
 
 Pan et al. (2016)
--------------------
+++++++++++++++++++++
 Pan, S., Liu, H., Mo, Z., Patterson, B., Duan, M., Tian, H., ... & Tang, X. (2016). Effects of nitrogen and shading on root morphologies, nutrient accumulation, and photosynthetic parameters in different rice genotypes. Scientific Reports, 6(1), 32148. https://doi.org/10.1038/srep32148.
 
 This study examines the influence of shading and nitrogen treatments on rice growth by assessing their effects on photosynthesis, root structure, nutrient uptake, and yield outcomes. Conducted across two field experiments involving three rice cultivars, the research incorporated a range of nitrogen levels and shading intensities.
