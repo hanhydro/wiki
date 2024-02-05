@@ -33,8 +33,9 @@ Studies by locality
   function initMap() {
     var mapCenter = {lat: 43.07158173090839, lng: -89.409704861399};  // Map center coordinates
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 8,
-      center: mapCenter
+      zoom: 3,
+      center: mapCenter,
+      mapTypeId: google.maps.MapTypeId.SATELLITE
     });
 
     var markers = [
