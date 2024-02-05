@@ -98,7 +98,7 @@ Studies by climate
 Studies by plant
 ----------------------
 .. list-table:: 
-   :widths: 25 25 50
+   :widths: 25 25
    :header-rows: 1
 
    * - Plant
@@ -115,7 +115,7 @@ Studies by plant
 Studies by PV axis
 ----------------------
 .. list-table:: 
-   :widths: 25 25 50
+   :widths: 25 25
    :header-rows: 1
 
    * - Axis
