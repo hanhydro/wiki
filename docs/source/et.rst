@@ -56,4 +56,14 @@ Plant growth dynamics were also affected, with rape plants beneath the panels re
 
 Global radiation measurements corroborated the significant shading effect of the panels, leading to cooler soil temperatures and reduced transpiration rates during the growing season, thereby resulting in lower ET beneath the panels.
 
+Zhao et al. (2021)
+++++++++++++++++++++
+Zhao, M., Wang, W., Ma, Z., Wang, Q., Wang, Z., Chen, L., & Fu, B. (2021). Soil water dynamics based on a contrastive experiment between vegetated and non-vegetated sites in a semiarid region in Northwest China. Journal of Hydrology, 603, 126880. https://doi.org/10.1016/j.jhydrol.2021.126880.
+
+This investigation focuses on the impact of Salix (willow) vegetation on soil water dynamics within the semiarid Ordos Basin in China, contrasting vegetated sites with barren lands to understand the role of vegetation in altering soil and groundwater characteristics. The study uncovers that evapotranspiration (ET) rates at the vegetated site significantly outpaced evaporation (E) at the non-vegetated site, pinpointing transpiration by vegetation as a key factor in soil water depletion. Interestingly, the barren site saw an increase in soil water storage, attributing to effective rainwater retention both in the shallow vadose zone and deeper layers, whereas the vegetated site experienced a marked reduction in soil water storage, with all rainwater being absorbed by plant roots and no seepage noted, thereby accentuating the profound influence of root water uptake on soil moisture dynamics.
+
+An innovative aspect of the research was the development of an exponential normal composite model for root water uptake, which demonstrated how vegetation alters soil water flow, essentially segregating soil water layers and hindering the natural recharge of deeper soil and groundwater by precipitation. This finding suggests a paradox where vegetation enhances soil infiltration but simultaneously increases water consumption, limiting deeper soil water recharge.
+
+The implications of these findings for groundwater management and vegetation restoration in semiarid areas are significant. They underscore the necessity of incorporating the hydrodynamic roles of vegetation into the planning and implementation of restoration projects to ensure they do not inadvertently compromise groundwater reserves by overly diminishing soil water levels. The study vividly illustrates the distinct hydrological outcomes between vegetated and barren sites, with the presence of vegetation drastically changing soil water storage dynamics, evaporation, and transpiration rates, thereby deeply influencing the hydrological cycle in semiarid landscapes.
+
 
