@@ -39,7 +39,7 @@ Studies by locality
         var marker = new google.maps.Marker({
           position: myLatLng,
           map: map,
-          title: 'Hello World!'
+          title: 'Agrivoltaics studies by locality'
         });
       }
     </script>
