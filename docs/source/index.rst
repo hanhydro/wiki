@@ -61,7 +61,7 @@ Studies by locality
         });
       }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsqb9KMZx9asqzLwumBpBPBgBDe0HqncY&callback=initMap"></script>
 
 
 Studies by soil type
