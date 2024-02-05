@@ -42,7 +42,19 @@ Studies by soil type
 
 Studies by climate
 ----------------------
+.. list-table:: 
+   :widths: 25 25 50
+   :header-rows: 1
 
+   * - Study
+     - Climate
+     - Approx. coord.
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
 Contents
 --------
 
