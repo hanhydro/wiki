@@ -30,8 +30,8 @@ Studies by locality
 
     <div id="map" style="height:400px;width:100%;"></div>
     <script>
-      function initMap() {
-        var myLatLng = {lat: -34.397, lng: 150.644};  // Your coordinates
+      function initMap() { 
+        var myLatLng = {lat: 43.07158173090839, lng: -89.409704861399};  // Your coordinates
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 8,
           center: myLatLng
