@@ -33,13 +33,13 @@ Studies by locality
       function initMap() {
         var mapCenter = {lat: 43.07158173090839, lng: -89.409704861399};  // Map center coordinates
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 3,
+          zoom: 2,
           center: mapCenter,
           mapTypeId: google.maps.MapTypeId.SATELLITE
         });
 
         var markers = [
-          {position: {lat: 43.071581, lng: -89.409705}, title: 'Location 1', description: 'Description for Location 1'},
+          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al. (2022)', description: 'Jack's Solar Garden, Longmont, CO'},
           {position: {lat: 43.072581, lng: -89.400705}, title: 'Location 2', description: 'Description for Location 2'},
           // Add more marker data here
         ];
