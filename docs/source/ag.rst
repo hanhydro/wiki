@@ -15,6 +15,18 @@ The article acknowledges the significant growth in solar PV systems in agricultu
 
 In conclusion, solar-PV technology integration in agriculture is extensive, reducing carbon emissions and increasing productivity. Hybrid technologies enhance creativity and flexibility in applying solar-PV technology in various farming operations. To encourage broader adoption of PV technologies, cost-effective strategies and affordable energy storage solutions are essential.
 
+Sturchio et al. (2022)
+++++++++++++++++++++
+Sturchio, M. A., Macknick, J. E., Barron‐Gafford, G. A., Chen, A., Alderfer, C., Condon, K., ... & Knapp, A. K. (2022). Grassland productivity responds unexpectedly to dynamic light and soil water environments induced by photovoltaic arrays. Ecosphere, 13(12), e4334. https://doi.org/10.1002/ecs2.4334.
+
+This study delves into the impacts of agrivoltaic (AV) systems on forage production in a semiarid C3 grassland in Colorado, focusing on how photovoltaic (PV) panels influence soil moisture (SM), photosynthetic photon flux density (PPFD), and aboveground net primary production (ANPP). The research aimed to quantify the dynamic patterns of PPFD and SM under a 1.2 MW PV array and assess their effects on ANPP and photosynthetic parameters. Contrary to initial hypotheses that ANPP would correlate strongly with SM patterns typical of grasslands, findings revealed significant reductions in ANPP directly beneath PV panels due to low SM and PPFD. However, increased SM from precipitation redistribution by PV panels did not enhance ANPP. Interestingly, ANPP peaked in locations receiving morning sunlight but afternoon shade, suggesting the diurnal timing of light exposure is crucial for productivity.
+
+Annual precipitation in 2021 exceeded the long-term average, especially during the early growing season, providing a unique context for the study. Light measurements indicated significant reductions in PPFD under PV panels, with slight differences between PV array heights. Contrary to expectations, there were no significant differences in light-saturated photosynthesis (Asat) and quantum yield of CO2 assimilation (ϕCO2) between plants growing directly beneath or between PV panels.
+
+Spatial patterns of SM varied throughout the growing season, with the highest levels observed near the western edge of PV panels, attributed to afternoon precipitation events. Despite these SM variations, ANPP did not strongly correlate with either SM or PPFD, challenging previous assumptions about the primary drivers of productivity in grasslands.
+
+The study concludes that the AV system did not alter ANPP patterns in predictable ways based on past grassland studies. The presence of PV panels created substantial spatial variability in light and water availability, but ANPP was more influenced by the timing of PPFD exposure relative to environmental conditions than by SM alone. These findings suggest that AV systems' impact on ecosystem services such as forage production in semiarid regions requires further exploration to optimize the balance between renewable energy generation and agricultural productivity. Understanding the ecological consequences of AV systems and how they alter resource availability and ecosystem processes is essential for designing AV systems that harmonize energy production with agricultural needs.
+
 Shading effect
 -------------------
 
