@@ -41,7 +41,8 @@ Studies by locality
         var markers = [
           {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},
           {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
-          {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'}
+          {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
+          {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'}
         ];
 
         markers.forEach(function(markerData) {
