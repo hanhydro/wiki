@@ -82,4 +82,32 @@ However, the introduction of shading reduced the extreme daytime heat by 5.6 °C
 
 Notably, shading decreased the levels of photosynthetically active radiation inside the greenhouse to just a fraction of what was available in open fields, impeding the plants' photosynthetic efficiency. This was reflected in the nutritional content of the tomatoes, with a 29% decrease in total phenolic content and a 16% decrease in total flavonoid content under shaded conditions. The plants did adapt morphologically to the lower light levels with increased leaf area and stem height, but these changes were insufficient to offset the yield loss.
 
+Lechaudel et al. (2013)
+-------------------
+Léchaudel, M., Lopez-Lauri, F., Vidal, V., Sallanon, H., & Joas, J. (2013). Response of the physiological parameters of mango fruit (transpiration, water relations and antioxidant system) to its light and temperature environment. Journal of plant physiology, 170(6), 567-576. https://doi.org/10.1016/j.jplph.2012.11.009.
+
+This study delved into the adaptive strategies of mango fruits to diverse environmental conditions, particularly examining the effects of varying temperatures and light exposures on the fruit's water relations, skin attributes, and antioxidant defenses.
+
+Mango fruits nestled within the canopy or exposed to direct sunlight demonstrated distinct temperature gradients, which in turn affected their transpiration rates and water conductance. The fruits exposed to the sun had adapted to reduce water conductance more so than shaded fruits, a response aimed at curbing water loss under the duress of elevated temperatures and strong sunlight.
+
+Differences in cuticle thickness and osmotic potential were noted between fruits based on their location and exposure, with these physical changes aligning with the need to mitigate water stress and maintain osmotic equilibrium across varying environmental scenarios. In response to the heightened light exposure and consequent water stress, sun-exposed mango fruits ramped up their antioxidant systems and enzyme activities, such as superoxide dismutase (SOD), ascorbate peroxidase (APX), and monodehydroascorbate reductase (MDHAR), across all stages of maturity. This was in contrast to lower enzyme activities and antioxidant levels in shaded fruit peels, with intermediate levels detected on the shaded sides of sun-exposed fruits.
+
+Additionally, the study found increased lipid peroxidation in fruits exposed to the sun, as indicated by a rise in malondialdehyde (MDA) content, signifying oxidative stress likely spurred by intense irradiation and high temperatures. To cope with this, mango fruits have developed photoprotective strategies that facilitate the photoreduction of oxygen and the neutralization of reactive oxygen species through a coordinated network of antioxidant molecules and enzymes, a critical line of defense for sun-exposed fruits that possess limited photosynthetic abilities.
+
+Furthermore, the research showed that both enzymatic and non-enzymatic antioxidants, particularly those involved in the ascorbate-glutathione cycle and ascorbate content, were markedly elevated in the peels of sun-exposed fruits, highlighting a robust defense against the environmental stressors.
+
+Pan et al. (2016)
+-------------------
+Pan, S., Liu, H., Mo, Z., Patterson, B., Duan, M., Tian, H., ... & Tang, X. (2016). Effects of nitrogen and shading on root morphologies, nutrient accumulation, and photosynthetic parameters in different rice genotypes. Scientific Reports, 6(1), 32148. https://doi.org/10.1038/srep32148.
+
+This study examines the influence of shading and nitrogen treatments on rice growth by assessing their effects on photosynthesis, root structure, nutrient uptake, and yield outcomes. Conducted across two field experiments involving three rice cultivars, the research incorporated a range of nitrogen levels and shading intensities.
+
+Key observations include the finding that severe shading during the crucial grain-filling stage led to a marked decrease in nutrient absorption, changes in root morphology, and a reduction in rice yields, indicating that inadequate light hampers the plant's capacity for nutrient acquisition and reproduction. High nitrogen application consistently resulted in greater yields, with the highest yields recorded at 6.70 tons per hectare in the late season of 2011, under high nitrogen conditions.
+
+Specifically, high nitrogen availability promoted more extensive root development, as evidenced by longer total root length, larger root surface area, and greater root volume. For instance, rice plants under high nitrogen treatment exhibited a total root length of 13.09 per panicle hill with 142.10 spikelets per panicle. Conversely, heavy shading significantly detracted from root growth, with root parameters notably declining under double shading.
+
+Photosynthetic and transpiration rates were also affected by the treatments, with the highest rates observed in the morning and the lowest at midday, especially under intense shading. The study underscored a complex interplay between nitrogen levels and light availability, with a notable interaction influencing photosynthetic rates, transpiration, and root morphology.
+
+Furthermore, the research showed a strong positive correlation between total nitrogen and potassium accumulation with root morphological traits, reinforcing the idea that a robust root system is vital for efficient nutrient uptake in rice.
+
 
