@@ -178,4 +178,26 @@ Additionally, the study provided insights into how the canopy's geometry influen
 
 However, the research also highlighted a critical constraint on forest growth in semi-arid environments, pointing out that while a denser canopy can effectively reduce soil evaporation, it also leads to increased precipitation interception and transpiration. This dynamic suggests a threshold for sustainable forest expansion, with precipitation levels unable to support growth beyond a certain canopy cover limit, estimated at 65% for the Yatir forest.
 
+Whitehead et al. (1996)
+++++++++++++++++++++++++++++
+Whitehead, D., Livingston, N. J., Kelliher, P. M., Hogan, K. P., Pepin, S., McSeveny, T. M., & Byers, J. N. (1996). Response of transpiration and photosynthesis to a transient change in illuminated foliage area for a Pinus radiata D. Don tree. Plant, Cell & Environment, 19(8), 949-957. https://doi.org/10.1111/j.1365-3040.1996.tb00459.x.
 
+This research delves into how varying light exposure to different sections of a large tree's foliage within a forest plantation impacts its water and carbon exchange processes with the environment. Conducted during late summer under fluctuating weather conditions, including dry spells, partial cloudiness, and sporadic rainfall, the experiment sought to unravel the tree's physiological responses to alterations in sunlight accessibility by selectively covering the upper or lower branches and observing changes in transpiration, gas exchange rates, and internal water pressure.
+
+The experiment revealed nuanced responses of the tree to these manipulations. When light was obstructed from reaching the top 22% of the foliage, the tree exhibited a minor reduction in water usage, particularly under conditions of lower air dryness. Conversely, shielding the lower 78% of the foliage resulted in a more substantial decrease in water use and a more stable water usage pattern throughout the day. This differential response suggests a significant impact of foliage position on the tree's overall water and carbon dynamics.
+
+Notably, the tree demonstrated an ability to compensate for the reduced light exposure by enhancing water use efficiency and photosynthesis in the parts of the foliage still exposed to light. This adaptive mechanism was characterized by quick and reversible changes in water use and photosynthesis upon alternation of the light-blocking treatment, indicating the tree's dynamic regulation abilities.
+
+The study posits that these rapid adjustments are likely mediated through a combination of hydraulic and chemical signals within the tree, allowing it to swiftly adapt to environmental variations by modulating stomatal behavior. This behavior affects both water loss through transpiration and carbon dioxide uptake for photosynthesis.
+
+Gent (2007)
+++++++++++++++++++++++++++++
+Gent, M. P. (2007). Effect of degree and duration of shade on quality of greenhouse tomato. HortScience, 42(3), 514-520. https://doi.org/10.21273/HORTSCI.42.3.514.
+
+Exposure to sunlight has been identified as a key factor influencing fruit quality, particularly through its role in causing skin cracking and various fruit defects. Research indicates that fruits directly exposed to sunlight exhibit a higher rate of skin cracking, with nearly half of the exposed fruits showing cracks, as opposed to only a fifth of those in shaded conditions. This suggests that sunlight increases water potential at the fruit's surface, making them more susceptible to cracking.
+
+In areas with limited light, plants naturally expand their leaf area, which could offer more shade and potentially protect the fruit from direct sunlight. Although this adaptive strategy seems plausible, it wasn't explicitly analyzed in the study in question. Moreover, defects like uneven ripening and blossom end rot (BER) in tomatoes have been linked to the intensity of sunlight, with higher instances of such issues observed in fruits grown without adequate shading. For instance, the 'Cabernet' variety was notably less prone to uneven ripening when provided with more shade, particularly noted during the year 2004.
+
+The occurrence of BER, in particular, has been associated with the cumulative intensity of sunlight exposure. Techniques like movable shades in greenhouses or the use of neutral or white shading materials have proven effective in reducing the incidence of BER, underscoring the critical role of controlled sunlight exposure for maintaining fruit quality.
+
+Interestingly, the response to shading appears to be cultivar-specific, with the 'Jetstar' variety showing a higher incidence of BER and a tendency towards developing fruits with open locules or irregular shapes under shaded conditions in 2005. This implies that shading does not universally mitigate all fruit defects, and the observed differences in fruit quality were independent of temperature variations, as shading did not alter night temperatures.
