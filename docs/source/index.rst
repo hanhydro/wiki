@@ -116,6 +116,10 @@ Studies by plant
      - Sturchio et al., 2022
    * - Dactylis glomerata
      - Sturchio et al., 2022
+   * - Maize
+     - Fan et al., 2018
+   * - Soybean
+     - Fan et al., 2018
 
 Studies by PV axis
 ----------------------
