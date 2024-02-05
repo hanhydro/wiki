@@ -47,7 +47,11 @@ Studies by locality
           var marker = new google.maps.Marker({
             position: markerData.position,
             map: map,
-            title: markerData.title
+            title: markerData.title,
+            icon: {
+               url: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+               scaledSize: new google.maps.Size(10, 10) 
+             }
           });
 
           var infowindow = new google.maps.InfoWindow({
