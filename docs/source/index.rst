@@ -89,12 +89,12 @@ Studies by climate
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Study
-     - Climate
+   * - Climate
+     - Study
      - Approx. coord.
-   * - Row 1, column 1
-     - 1
-     - Row 1, column 3
+   * - Subtropical, humid
+     - Fan et al., 2018
+     - 30.7058, 103.8624
    * - Row 2, column 1
      - Row 2, column 2
      - Row 2, column 3
