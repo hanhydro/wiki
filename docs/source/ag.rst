@@ -2,7 +2,7 @@ Agronomy
 ===========
 
 Dhonde et al. (2022)
-++++++++++++++++++++
+-------------------
 
 Dhonde, M., Sahu, K., & Murty, V. V. S. (2022). The application of solar-driven technologies for the sustainable development of agriculture farming: a comprehensive review. Reviews in Environmental Science and Bio/Technology, 21(1), 139-167. https://doi.org/10.1007/s11157-022-09611-6
 
@@ -14,10 +14,10 @@ In conclusion, solar-PV technology integration in agriculture is extensive, redu
 
 
 Shading effect
------------
+++++++++++++++++++++
 
 Fan et al. (2018)
-++++++++++++++++++++
+-------------------
 Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system
 Fan, Y., Chen, J., Cheng, Y., Raza, M. A., Wu, X., Wang, Z., ... & Yang, F. (2018). Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system. PloS one, 13(5), e0198159. https://doi.org/10.1371/journal.pone.0198159
 
@@ -34,7 +34,7 @@ The adaptability of soybeans to changing light conditions has implications for y
 
 
 Correia et al. (2006)
-++++++++++++++++++++
+-------------------
 Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves
 Correia, M. J., Osório, M. L., Osório, J., Barrote, I., Martins, M., & David, M. M. (2006). Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves. Environmental and Experimental Botany, 58(1-3), 75-84. https://doi.org/10.1016/j.envexpbot.2005.06.015.
 
@@ -48,7 +48,7 @@ The findings present a nuanced picture: while transient shading generally aids w
 
 
 Williams et al. (1993)
-++++++++++++++++++++
+-------------------
 The influence of shade and clouds on soil water potential: The buffered behavior of hydraulic lift
 Williams, K., Caldwell, M. M., & Richards, J. H. (1993). The influence of shade and clouds on soil water potential: the buffered behavior of hydraulic lift. Plant and Soil, 157, 83-95. https://doi.org/10.1007/BF02390230.
 
