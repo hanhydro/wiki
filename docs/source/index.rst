@@ -28,31 +28,27 @@ Studies by locality
 ----------------------
 .. raw:: html
 
-   <html>
-     <head>
-       <title>Custom Map</title>
-       <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-       <script>
-         function initMap() {
-           var myLocation = {lat: -25.363, lng: 131.044}; // Replace with your coordinates
-           var map = new google.maps.Map(document.getElementById('map'), {
-             zoom: 4,
-             center: myLocation
-           });
-           var marker = new google.maps.Marker({
-             position: myLocation,
-             map: map
-           });
-         }
-       </script>
-       <script defer
-         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsqb9KMZx9asqzLwumBpBPBgBDe0HqncY&callback=initMap">
-       </script>
-     </head>
-     <body>
-       <div id="map" style="height:400px;width:100%;"></div>
-     </body>
-   </html>
+   <head>
+    <title>Simple Marker</title>
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <script async src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      gmp-map {
+        height: 100%;
+      }
+
+      /* Optional: Makes the sample page fill the window. */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
 
 .. list-table:: 
    :widths: 25 25 50
