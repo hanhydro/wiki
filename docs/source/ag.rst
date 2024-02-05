@@ -12,6 +12,10 @@ The article acknowledges the significant growth in solar PV systems in agricultu
 
 In conclusion, solar-PV technology integration in agriculture is extensive, reducing carbon emissions and increasing productivity. Hybrid technologies enhance creativity and flexibility in applying solar-PV technology in various farming operations. To encourage broader adoption of PV technologies, cost-effective strategies and affordable energy storage solutions are essential.
 
+
+Shading effect
+-----------
+
 Fan et al. (2018)
 ++++++++++++++++++++
 Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system
