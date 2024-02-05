@@ -122,6 +122,15 @@ Studies by plant
      - Fan et al., 2018
    * - Helianthus annuus
      - Correia et al., 2006
+   * - Artemisia tridentata
+     - Williams et al., 1993
+   * - bunchgrass
+     - Williams et al., 1993
+   * - Agropyron desertorum, spicatum
+     - Williams et al., 1993
+   * - Pseudoroegneria spicata
+     - Williams et al., 1993
+   
 
 Studies by PV axis
 ----------------------
