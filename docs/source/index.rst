@@ -50,7 +50,7 @@ Studies by locality
             title: markerData.title,
             icon: {
                url: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-               scaledSize: new google.maps.Size(10, 10) 
+               scaledSize: new google.maps.Size(30, 30) 
              }
           });
 
