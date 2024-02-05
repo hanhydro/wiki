@@ -38,10 +38,24 @@ Correia et al. (2006)
 Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves
 Correia, M. J., Osório, M. L., Osório, J., Barrote, I., Martins, M., & David, M. M. (2006). Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves. Environmental and Experimental Botany, 58(1-3), 75-84. https://doi.org/10.1016/j.envexpbot.2005.06.015.
 
-This study investigates the complex interplay between light variations, notably the intermittent shading from cloud cover, and plant responses to drought and their subsequent recovery upon rehydration. It reveals that during water scarcity, shading can serve as a protective mechanism, lessening the decline in photosynthesis rate in sunflowers and reducing oxidative stress, which in turn facilitates a quicker recovery of photosynthetic functions upon re-watering, thereby indicating that partial shade can help offset some drought effects.
+This study investigates the interplay between light variations, notably the intermittent shading from cloud cover, and plant responses to drought and their subsequent recovery upon rehydration. It reveals that during water scarcity, shading can serve as a protective mechanism, lessening the decline in photosynthesis rate in sunflowers and reducing oxidative stress, which in turn facilitates a quicker recovery of photosynthetic functions upon re-watering, thereby indicating that partial shade can help offset some drought effects.
 
 The research also examines shading's role in regulating sugar levels in leaves under drought conditions, suggesting that shading may prevent the excessive accumulation of sugars that suppress photosynthetic gene activity and hinder photosynthesis. Additionally, the study notes that reduced light through shading improves leaf water potential in water-deprived plants, helping to maintain physiological functions closer to those of well-watered plants, and sees a non-significant uptick in stomatal conductance and photosynthesis in these stressed plants.
 
 After re-watering, the immediate detrimental impacts of dry soil on photosynthesis and stomatal function appear to dissipate within 24 hours under normal growth light. Yet, plants subjected to low-light conditions post-rehydration demonstrate a significantly hindered CO2 uptake rate in comparison to consistently well-watered plants, underscoring the influence of light on photosynthetic recovery.
 
 The findings present a nuanced picture: while transient shading generally aids water-stressed plants by counteracting drought-induced damage and maintaining photochemical efficiency, it might also impede the revival of net CO2 uptake rates after re-watering. The research underscores that the restoration of photosynthetic rates after drought stress is intricately linked to the prevailing light conditions.
+
+
+Williams et al. (1993)
+++++++++++++++++++++
+The influence of shade and clouds on soil water potential: The buffered behavior of hydraulic lift
+Williams, K., Caldwell, M. M., & Richards, J. H. (1993). The influence of shade and clouds on soil water potential: the buffered behavior of hydraulic lift. Plant and Soil, 157, 83-95. https://doi.org/10.1007/BF02390230.
+
+In the sagebrush/bunchgrass steppe of North America's Great Basin, this study set out to understand how shading impacts soil water potential. It was predicted that shading would improve soil water potential by lowering transpiration rates, thus reducing water use during the day and allowing for water release from roots at night. Through a combination of field experiments and modeling, the research assessed the influence of artificial shading on soil moisture.
+
+The immediate effect of shading was a slight increase in soil water potential due to less water being used during daylight hours; nevertheless, the net impact on soil water potential was surprisingly negligible. This was explained by the necessity of daytime soil water depletion to enable nocturnal soil recharging, which was impeded by shading. Consistent with model predictions and empirical data, shading was found to decrease the daily range of soil water potential changes but did not significantly alter the overall soil water potential, suggesting a system resilience to daily evapotranspiration variations while following a stable seasonal soil water depletion pattern.
+
+The study also observed that during minor summer rainfall events, shading could unexpectedly improve plant water status by minimizing evapotranspiration and promoting soil water redistribution in the root zone. Despite its simplicity, the model effectively illustrated the limited effect of shading on soil water potential, underscoring the crucial role of daytime water depletion in facilitating nocturnal soil rehydration.
+
+
