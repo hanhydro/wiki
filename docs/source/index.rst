@@ -74,12 +74,12 @@ Studies by soil type
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Study
-     - Soil type
+   * - Soil type
+     - Study
      - Measurement depth
-   * - Row 1, column 1
-     - 1
-     - Row 1, column 3
+   * - Gravelly loam
+     - Williams et al., 1993
+     - 35, 50, 80, 120 cm
    * - Row 2, column 1
      - Row 2, column 2
      - Row 2, column 3
