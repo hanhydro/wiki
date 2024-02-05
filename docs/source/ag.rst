@@ -1,7 +1,7 @@
 Agronomy
 ===========
 
-General agrivoltatics
+General
 -------------------
 
 Dhonde et al. (2022)
@@ -111,5 +111,17 @@ Specifically, high nitrogen availability promoted more extensive root developmen
 Photosynthetic and transpiration rates were also affected by the treatments, with the highest rates observed in the morning and the lowest at midday, especially under intense shading. The study underscored a complex interplay between nitrogen levels and light availability, with a notable interaction influencing photosynthetic rates, transpiration, and root morphology.
 
 Furthermore, the research showed a strong positive correlation between total nitrogen and potassium accumulation with root morphological traits, reinforcing the idea that a robust root system is vital for efficient nutrient uptake in rice.
+
+Lopez et al. (2018)
+++++++++++++++++++++
+Lopez, G., Boini, A., Manfrini, L., Torres-Ruiz, J. M., Pierpaoli, E., Zibordi, M., ... & Corelli-Grappadelli, L. (2018). Effect of shading and water stress on light interception, physiology and yield of apple trees. Agricultural Water Management, 210, 140-148. https://doi.org/10.1016/j.agwat.2018.08.015.
+
+In a study conducted in Bologna, Italy, researchers explored the impact of net shading on apple orchards under different water stress conditions, examining how various levels of shading (20% black net, 50% red and white nets) and no netting, combined with three irrigation regimes (260 mm as control, 115 mm for moderate water stress (WS), and 50 mm for severe WS), affect apple yield, tree water status, and physiological responses. The study revealed several key insights:
+
+Trees under net shading maintained better water status compared to those without nets, with midday stem water potential (Ψstem) around -1.0 MPa for controlled conditions, indicating a protective effect against water stress. In severe water stress situations, Ψstem values dipped to around -1.5 MPa across all netting conditions, although trees without netting experienced this decline more rapidly.
+
+Interestingly, leaf photosynthesis rates remained stable under different shading levels but declined as water stress intensified, as indicated by more negative Ψstem values. The study found that yield was not significantly affected by shading under severe water stress conditions, with output remaining low (5–7 kg per tree). However, in moderate and control water conditions, shaded trees produced higher yields (9–13 kg per tree) than those without shade, with minimal difference observed between the degrees of shading applied.
+
+The benefits of shading included improved tree water status, delayed fruit maturity which allows for extended growth periods, and a reduction in photo-inhibition. These findings suggest that net shading could serve as an effective tool for fruit growers to lessen the impacts of water stress, particularly in moderate and controlled water conditions. Furthermore, the research did not find significant differences in tree physiological traits or marketable yield based on the level of shading or net color, suggesting that apple trees can tolerate up to 50% light reduction.
 
 
