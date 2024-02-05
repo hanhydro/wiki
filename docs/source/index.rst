@@ -39,8 +39,8 @@ Studies by locality
         });
 
         var markers = [
-          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO'},
-          {position: {lat: 43.072581, lng: -89.400705}, title: 'Location 2', description: 'Description for Location 2'},
+          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},
+          {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
         ];
 
         markers.forEach(function(markerData) {
