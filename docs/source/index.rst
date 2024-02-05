@@ -29,30 +29,19 @@ Studies by locality
 .. raw:: html
 
    <html>
-     <head>
-       <title>Custom Map</title>
-       <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-       <script>
-         function initMap() {
-           var myLocation = {lat: -25.363, lng: 131.044}; // Replace with your coordinates
-           var map = new google.maps.Map(document.getElementById('map'), {
-             zoom: 4,
-             center: myLocation
-           });
-           var marker = new google.maps.Marker({
-             position: myLocation,
-             map: map
-           });
-         }
-       </script>
-       <script defer
-         src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-       </script>
-     </head>
-     <body>
-       <div id="map" style="height:400px;width:100%;"></div>
-     </body>
-   </html>
+  <head>
+    <title>Simple Marker</title>
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBERcNmJ_KbXQOyia2MdRtQRlDH6lx1K7c&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
+    <link rel="stylesheet" href="./style.css"/>
+  </head>
+  <body>
+    <gmp-map center="43.07282638549805,-89.41233825683594" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="43.07282638549805,-89.41233825683594" title="My location"></gmp-advanced-marker>
+    </gmp-map>
+  </body>
+</html>
 
 .. list-table:: 
    :widths: 25 25 50
