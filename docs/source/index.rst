@@ -39,9 +39,8 @@ Studies by locality
         });
 
         var markers = [
-          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al. (2022)', description: 'Jack's Solar Garden, Longmont, CO'},
+          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jack's Solar Garden, Longmont, CO'},
           {position: {lat: 43.072581, lng: -89.400705}, title: 'Location 2', description: 'Description for Location 2'},
-          // Add more marker data here
         ];
 
         markers.forEach(function(markerData) {
@@ -74,7 +73,7 @@ Studies by soil type
      - Soil type
      - Measurement depth
    * - Row 1, column 1
-     -
+     - 1
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
@@ -90,7 +89,7 @@ Studies by climate
      - Climate
      - Approx. coord.
    * - Row 1, column 1
-     -
+     - 1
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
@@ -123,12 +122,12 @@ Studies by PV axis
      - Study
    * - Single-axis tracking
      - Sturchio et al., 2022
-   * - 
-     - 
-   * - 
-     - 
-   * - 
-     - 
+   * - 1
+     - 1
+   * - 2
+     - 2
+   * - 3
+     - 3
 
 Contents
 --------
