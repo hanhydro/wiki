@@ -42,8 +42,10 @@ Studies by locality
           {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},
           {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
           {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
-          {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'}
+          {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'},
+            {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel  et al., 2013', description: '16-year-old mango trees grafted on ‘Maison Rouge’, in Reunion Island; Léchaudel  et al., 2013'}
         ];
+
 
         markers.forEach(function(markerData) {
           var marker = new google.maps.Marker({
