@@ -27,50 +27,42 @@ A total of 30 articles are summarized. To search for keywords, please type in th
 Studies by locality
 ----------------------
 .. raw:: html
-   <html>
-     <head>
+
     <div id="map" style="height:400px;width:100%;"></div>
-<script>
-  function initMap() {
-    var mapCenter = {lat: 43.07158173090839, lng: -89.409704861399};  // Map center coordinates
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 3,
-      center: mapCenter,
-      mapTypeId: google.maps.MapTypeId.SATELLITE
-    });
+    <script>
+      function initMap() {
+        var mapCenter = {lat: 43.07158173090839, lng: -89.409704861399};  // Map center coordinates
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 3,
+          center: mapCenter,
+          mapTypeId: google.maps.MapTypeId.SATELLITE
+        });
 
-    var markers = [
-      {position: {lat: 43.071581, lng: -89.409705}, title: 'Location 1', description: 'Description for Location 1'},
-      {position: {lat: 43.072581, lng: -89.400705}, title: 'Location 2', description: 'Description for Location 2'},
-      // Add more marker data here
-    ];
+        var markers = [
+          {position: {lat: 43.071581, lng: -89.409705}, title: 'Location 1', description: 'Description for Location 1'},
+          {position: {lat: 43.072581, lng: -89.400705}, title: 'Location 2', description: 'Description for Location 2'},
+          // Add more marker data here
+        ];
 
-    // Create markers and InfoWindows from the markers array
-    markers.forEach(function(markerData) {
-      var marker = new google.maps.Marker({
-        position: markerData.position,
-        map: map,
-        title: markerData.title
-      });
+        markers.forEach(function(markerData) {
+          var marker = new google.maps.Marker({
+            position: markerData.position,
+            map: map,
+            title: markerData.title
+          });
 
-      var infowindow = new google.maps.InfoWindow({
-        content: markerData.description
-      });
+          var infowindow = new google.maps.InfoWindow({
+            content: markerData.description
+          });
 
-      marker.addListener('click', function() {
-        infowindow.open(map, marker);
-      });
-    });
-  }
-</script>
-<script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsqb9KMZx9asqzLwumBpBPBgBDe0HqncY&callback=initMap">
-</script>
- </head>
-     <body>
-       <div id="map" style="height:400px;width:100%;"></div>
-     </body>
-   </html>
+          marker.addListener('click', function() {
+            infowindow.open(map, marker);
+          });
+        });
+      }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+
 
 Studies by soil type
 ----------------------
