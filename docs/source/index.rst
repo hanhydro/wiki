@@ -27,7 +27,8 @@ A total of 30 articles are summarized. To search for keywords, please type in th
 Studies by locality
 ----------------------
 .. raw:: html
-
+   <html>
+     <head>
     <div id="map" style="height:400px;width:100%;"></div>
 <script>
   function initMap() {
@@ -65,7 +66,11 @@ Studies by locality
 <script async defer
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsqb9KMZx9asqzLwumBpBPBgBDe0HqncY&callback=initMap">
 </script>
-
+ </head>
+     <body>
+       <div id="map" style="height:400px;width:100%;"></div>
+     </body>
+   </html>
 
 Studies by soil type
 ----------------------
