@@ -18,7 +18,6 @@ Shading effect
 
 Fan et al. (2018)
 -------------------
-Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system
 Fan, Y., Chen, J., Cheng, Y., Raza, M. A., Wu, X., Wang, Z., ... & Yang, F. (2018). Effect of shading and light recovery on the growth, leaf structure, and photosynthetic performance of soybean in a maize-soybean relay-strip intercropping system. PloS one, 13(5), e0198159. https://doi.org/10.1371/journal.pone.0198159
 
 The study explored the effects of maize-induced shading on soybeans in a relay-strip intercropping setup, revealing that while shading alters soybean morphology, reduces photosynthetic activity, and changes leaf anatomy, these plants exhibit notable adaptability. Soybeans adjust by growing taller with thinner stems and show a swift rebound in photosynthetic efficiency after maize harvest when light availability increases. Despite initial growth setbacks, soybeans can compensate once full sunlight returns, suggesting that managing light exposure in intercropping systems can enhance both soybean yield and seed quality, optimizing overall agricultural productivity.
@@ -35,7 +34,6 @@ The adaptability of soybeans to changing light conditions has implications for y
 
 Correia et al. (2006)
 -------------------
-Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves
 Correia, M. J., Osório, M. L., Osório, J., Barrote, I., Martins, M., & David, M. M. (2006). Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves. Environmental and Experimental Botany, 58(1-3), 75-84. https://doi.org/10.1016/j.envexpbot.2005.06.015.
 
 This study investigates the interplay between light variations, notably the intermittent shading from cloud cover, and plant responses to drought and their subsequent recovery upon rehydration. It reveals that during water scarcity, shading can serve as a protective mechanism, lessening the decline in photosynthesis rate in sunflowers and reducing oxidative stress, which in turn facilitates a quicker recovery of photosynthetic functions upon re-watering, thereby indicating that partial shade can help offset some drought effects.
@@ -49,7 +47,6 @@ The findings present a nuanced picture: while transient shading generally aids w
 
 Williams et al. (1993)
 -------------------
-The influence of shade and clouds on soil water potential: The buffered behavior of hydraulic lift
 Williams, K., Caldwell, M. M., & Richards, J. H. (1993). The influence of shade and clouds on soil water potential: the buffered behavior of hydraulic lift. Plant and Soil, 157, 83-95. https://doi.org/10.1007/BF02390230.
 
 In the sagebrush/bunchgrass steppe of North America's Great Basin, this study set out to understand how shading impacts soil water potential. It was predicted that shading would improve soil water potential by lowering transpiration rates, thus reducing water use during the day and allowing for water release from roots at night. Through a combination of field experiments and modeling, the research assessed the influence of artificial shading on soil moisture.
@@ -60,7 +57,6 @@ The study also observed that during minor summer rainfall events, shading could 
 
 Medina et al. (2002)
 -------------------
-Photosynthetic response of citrus grown under reflective aluminized polypropylene shading nets
 Medina, C. L., Souza, R. P., Machado, E. C., Ribeiro, R. V., & Silva, J. A. (2002). Photosynthetic response of citrus grown under reflective aluminized polypropylene shading nets. Scientia Horticulturae, 96(1-4), 115-125. https://doi.org/10.1016/S0304-4238(02)00085-7.
 
 This study delved into how reflective aluminized polypropylene shading nets can enhance the photosynthetic performance of citrus plants in greenhouses, which are subjected to the intense heat and vapor pressure deficits characteristic of hot climates. By deploying these nets, the researchers aimed to lessen the negative impacts of such environmental conditions on photosynthesis and overall plant growth.
@@ -75,9 +71,15 @@ In conclusion, the study affirmed that reflective shading nets substantially boo
 
 Angmo et al. (2021)
 -------------------
-Effect of shading and high temperature amplitude in greenhouse on growth, photosynthesis, yield and phenolic contents of tomato (Lycopersicum esculentum Mill.)
 Angmo, P., Phuntsog, N., Namgail, D., Chaurasia, O. P., & Stobdan, T. (2021). Effect of shading and high temperature amplitude in greenhouse on growth, photosynthesis, yield and phenolic contents of tomato (Lycopersicum esculentum Mill.). Physiology and Molecular Biology of Plants, 27, 1539-1546.
 https://doi.org/10.1007/s12298-021-01032-z
 
+This research evaluated the potential of cultivating tomatoes, which are sensitive to temperature changes, within a passive solar greenhouse subject to wide temperature fluctuations in a high-altitude mountainous region, and assessed the impact of incorporating a shade net with this low-cost agrarian structure.
+
+The greenhouse itself experienced notable temperature swings, with nighttime lows averaging 6.6 °C and daytime highs reaching 39.1 °C. Despite these variations, the greenhouse's controlled environment yielded a tomato crop 1.8 times larger than that of open-field cultivation, underscoring the structure's capacity to bolster tomato production in such a volatile climate.
+
+However, the introduction of shading reduced the extreme daytime heat by 5.6 °C but also led to a significant 48% drop in marketable yield. This was attributed to the shade's detrimental effects on photosynthesis, which caused delays in flowering and a decrease in the phenolic and flavonoid content of the tomatoes, affecting both yield and nutritional value. Soil temperatures also varied greatly, with the greenhouse and open-field conditions deviating from the optimal temperature range for tomato root zones, and shaded conditions lowering the temperature even further.
+
+Notably, shading decreased the levels of photosynthetically active radiation inside the greenhouse to just a fraction of what was available in open fields, impeding the plants' photosynthetic efficiency. This was reflected in the nutritional content of the tomatoes, with a 29% decrease in total phenolic content and a 16% decrease in total flavonoid content under shaded conditions. The plants did adapt morphologically to the lower light levels with increased leaf area and stem height, but these changes were insufficient to offset the yield loss.
 
 
