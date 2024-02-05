@@ -43,7 +43,7 @@ Studies by locality
           {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
           {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
           {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'},
-            {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel  et al., 2013', description: '16-year-old mango trees grafted on ‘Maison Rouge’, in Reunion Island; Léchaudel  et al., 2013'}
+            {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel et al., 2013', description: '16-year-old mango trees grafted on ‘Maison Rouge’, in Reunion Island; Léchaudel et al., 2013'}
         ];
 
 
@@ -102,7 +102,9 @@ Studies by climate
    * - Humid, continental
      - Williams et al., 1993
      - 41.7579, -111.8135
-
+   * - Tropical savanna
+     - Léchaudel et al., 2013
+     - -21.26098, 55.4119
 Studies by plant
 ----------------------
 .. list-table:: 
@@ -133,6 +135,9 @@ Studies by plant
      - Williams et al., 1993
    * - Pseudoroegneria spicata
      - Williams et al., 1993
+   * - Mangifera indica (Mango)
+     - Léchaudel et al., 2013
+
    
 
 Studies by PV axis
