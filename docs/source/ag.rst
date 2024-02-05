@@ -31,3 +31,17 @@ Shading also affected the photosynthetic capabilities of the soybean plants. Chl
 Under shade, the thickness of the palisade and spongy tissues in soybean leaves decreased, which is indicative of adaptations to capture more light. However, after the maize was harvested and light conditions improved, the leaf anatomy of soybeans adapted again, showing increased thickness in palisade and spongy tissues, enhancing their capacity for photosynthesis.
 
 The adaptability of soybeans to changing light conditions has implications for yield potential and seed quality, indicating that strategic management of shading in relay-strip intercropping systems could optimize crop production.
+
+
+Correia et al. (2006)
+++++++++++++++++++++
+Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves
+Correia, M. J., Osório, M. L., Osório, J., Barrote, I., Martins, M., & David, M. M. (2006). Influence of transient shade periods on the effects of drought on photosynthesis, carbohydrate accumulation and lipid peroxidation in sunflower leaves. Environmental and Experimental Botany, 58(1-3), 75-84. https://doi.org/10.1016/j.envexpbot.2005.06.015.
+
+This study investigates the complex interplay between light variations, notably the intermittent shading from cloud cover, and plant responses to drought and their subsequent recovery upon rehydration. It reveals that during water scarcity, shading can serve as a protective mechanism, lessening the decline in photosynthesis rate in sunflowers and reducing oxidative stress, which in turn facilitates a quicker recovery of photosynthetic functions upon re-watering, thereby indicating that partial shade can help offset some drought effects.
+
+The research also examines shading's role in regulating sugar levels in leaves under drought conditions, suggesting that shading may prevent the excessive accumulation of sugars that suppress photosynthetic gene activity and hinder photosynthesis. Additionally, the study notes that reduced light through shading improves leaf water potential in water-deprived plants, helping to maintain physiological functions closer to those of well-watered plants, and sees a non-significant uptick in stomatal conductance and photosynthesis in these stressed plants.
+
+After re-watering, the immediate detrimental impacts of dry soil on photosynthesis and stomatal function appear to dissipate within 24 hours under normal growth light. Yet, plants subjected to low-light conditions post-rehydration demonstrate a significantly hindered CO2 uptake rate in comparison to consistently well-watered plants, underscoring the influence of light on photosynthetic recovery.
+
+The findings present a nuanced picture: while transient shading generally aids water-stressed plants by counteracting drought-induced damage and maintaining photochemical efficiency, it might also impede the revival of net CO2 uptake rates after re-watering. The research underscores that the restoration of photosynthetic rates after drought stress is intricately linked to the prevailing light conditions.
