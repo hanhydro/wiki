@@ -67,3 +67,21 @@ An innovative aspect of the research was the development of an exponential norma
 The implications of these findings for groundwater management and vegetation restoration in semiarid areas are significant. They underscore the necessity of incorporating the hydrodynamic roles of vegetation into the planning and implementation of restoration projects to ensure they do not inadvertently compromise groundwater reserves by overly diminishing soil water levels. The study vividly illustrates the distinct hydrological outcomes between vegetated and barren sites, with the presence of vegetation drastically changing soil water storage dynamics, evaporation, and transpiration rates, thereby deeply influencing the hydrological cycle in semiarid landscapes.
 
 
+
+Ansley et al. (1994)
+++++++++++++++++++++
+Ansley, R. J., Dugas, W. A., Heuer, M. L., & Trevino, B. A. (1994). Stem flow and porometer measurements of transpiration from honey mesquite (Prosopis glandulosa). Journal of Experimental Botany, 45(6), 847-856. https://doi.org/10.1093/jxb/45.6.847.
+
+This research focused on evaluating the accuracy of transpiration rate estimations for honey mesquite trees in a semiarid setting by comparing outcomes from heat balance stem flow gauges and porometer-based leaf stomatal conductance measurements. The latter were scaled to whole-stem transpiration values, factoring in the leaf area of the stem. The study revealed several crucial insights:
+
+Both measurement techniques displayed consistent diurnal transpiration patterns, although discrepancies emerged on specific days, particularly in June. By October, transpiration estimates derived from porometer readings consistently surpassed those obtained via stem flow gauges, a difference attributed to the porometer's exclusion of damaged leaves, which likely transpire less.
+
+Experiments involving artificial shading and defoliation demonstrated that both methods captured comparable reductions in transpiration rates, underscoring the impact of leaf removal or shading on the tree's water loss.
+
+A regression analysis between the two methods showed a strong correlation, with coefficients indicating a good match, especially in October. Nonetheless, discrepancies, particularly at peak transpiration levels, pointed to potential limitations in accuracy when transpiration rates are high.
+
+The study also delved into the effect of within-stem shading, noting that leaves shaded by others in the tree's canopy transpired at different rates. This led to the adoption of a stratified sampling approach to better account for these variations.
+
+Further experimentation confirmed that shading significantly reduces both leaf and overall stem transpiration rates, suggesting that shading plays a crucial role in the plant's water use efficiency.
+
+The challenge of accurately scaling porometer readings to whole-stem transpiration was highlighted, especially due to factors like within-stem shading and leaf damage, which introduce variability.
