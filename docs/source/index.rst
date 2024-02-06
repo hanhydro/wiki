@@ -44,7 +44,8 @@ Studies by locality
           {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
           {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'},
             {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel et al., 2013', description: '16-year-old mango trees grafted on ‘Maison Rouge’, in Reunion Island; Léchaudel et al., 2013'},
-{position: {lat: 26.3655, lng:  105.3423}, title: 'Pan et al., 2016', description: 'Yunnan and Guizhou provinces; Pan et al., 2016'}
+{position: {lat: 26.3655, lng:  105.3423}, title: 'Pan et al., 2016', description: 'Yunnan and Guizhou provinces; Pan et al., 2016'},
+{position: {lat: 44.513704033826876, lng: 11.407046798197202}, title: 'Lopez et al., 2018', description: 'Apple orchard located at the University of Bologna Experiment Research Station; Lopez et al., 2018'}
         ];
 
 
@@ -87,6 +88,9 @@ Studies by soil type
    * - Paddy soil (rice)
      - Pan et al., 2016
      - N/A
+   * - Silty clay
+     - Lopez et al., 2018
+     - 10, 20, 30, 40 cm
 
 Studies by climate
 ----------------------
@@ -98,14 +102,15 @@ Studies by climate
      - Study
      - Approx. coord.
    * - Humid subtropical
-     - Fan et al., 2018; Pan et al., 2016
-     - 30.7058, 103.8624; 26.3655, 105.3423
+     - Fan et al., 2018; Pan et al., 2016; Lopez et al., 2018
+     - 30.7058, 103.8624; 26.3655, 105.3423, 44.5137, 11.4070
    * - Humid, continental
      - Williams et al., 1993
      - 41.7579, -111.8135
    * - Tropical savanna
      - Léchaudel et al., 2013
      - -21.26098, 55.4119
+
 
 Studies by plant
 ----------------------
@@ -141,8 +146,8 @@ Studies by plant
      - Léchaudel et al., 2013
    * - Oryza sativa L. (rice)
      - Pan et al., 2016
-
-   
+   * - Malus x domestica Borkh. (apple)
+     - Lopez et al., 2018
 
 Studies by PV axis
 ----------------------
