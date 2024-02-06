@@ -19,58 +19,12 @@ Latest updates
 ------------
 (Feb. 2nd, 2024) 
 
-
 Current repository
 ----------------
 A total of 30 articles are summarized. To search for keywords, please type in the textbox on the upper left corner.
 
 Studies by locality
 ----------------------
-.. raw:: html
-
-    <div id="map" style="height:400px;width:100%;"></div>
-    <script>
-      function initMap() {
-        var mapCenter = {lat: 43.07158173090839, lng: -89.409704861399};  // Map center coordinates
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 2,
-          center: mapCenter,
-          mapTypeId: google.maps.MapTypeId.SATELLITE
-        });
-
-        var markers = [
-
-          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},
-          {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
-          {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
-          {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, LOGAN UTAH; Williams et al., 1993'},
-            {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel et al., 2013', description: '16-year-old mango trees grafted on ‘Maison Rouge’, in Reunion Island; Léchaudel et al., 2013'},
-{position: {lat: 26.3655, lng: 105.3423}, title: 'Pan et al., 2016', description: 'Yunnan and Guizhou provinces; Pan et al., 2016'},
-{position: {lat: 44.513704033826876, lng: 11.407046798197202}, title: 'Lopez et al., 2018', description: 'Apple orchard located at the University of Bologna Experiment Research Station; Lopez et al., 2018'}
-        ];
-
-        markers.forEach(function(markerData) {
-          var marker = new google.maps.Marker({
-            position: markerData.position,
-            map: map,
-            title: markerData.title,
-            icon: {
-               url: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png",
-               scaledSize: new google.maps.Size(30, 30) 
-             }
-          });
-
-          var infowindow = new google.maps.InfoWindow({
-            content: markerData.description
-          });
-
-          marker.addListener('click', function() {
-            infowindow.open(map, marker);
-          });
-        });
-      }
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsqb9KMZx9asqzLwumBpBPBgBDe0HqncY&callback=initMap"></script>
 
 
 Studies by soil type
