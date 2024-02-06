@@ -38,14 +38,7 @@ Studies by locality
         });
 
         var markers = [
-
-          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},
-          {position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'},
-          {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},
-          {position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, Logan, UT; Williams et al., 1993'},
-            {position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel et al., 2013', description: '16-year-old mango trees grafted on Maison Rouge in Reunion Island; Léchaudel et al., 2013'},
-{position: {lat: 26.3655, lng: 105.3423}, title: 'Pan et al., 2016', description: 'Yunnan and Guizhou provinces; Pan et al., 2016'},
-{position: {lat: 44.513704033826876, lng: 11.407046798197202}, title: 'Lopez et al., 2018', description: 'Apple orchard located at the University of Bologna Experiment Research Station; Lopez et al., 2018'}
+          {position: {lat: 40.12199438142346, lng: -105.13073897309246}, title: 'Sturchio et al., 2022', description: 'Jacks Solar Garden, Longmont, CO; Sturchio et al., 2022'},{position: {lat: 43.072581, lng: -89.400705}, title: 'UW-Madison Engineering Hall', description: 'UW-Madison Engineering Hall'}, {position: {lat: 30.7062755556439, lng:  103.86265378041618}, title: 'Fan et al., 2018', description: 'Teaching and Experimental Farm of Sichuan Agricultural University; Fan et al., 2018'},{position: {lat: 41.7579, lng:  -111.8135}, title: 'Williams et al., 1993', description: 'GREEN CANYON ENVIRONMENTAL RESEARCH AREA, Logan, UT; Williams et al., 1993'},{position: {lat: -21.260977266470075, lng:  55.411943792598436}, title: 'Léchaudel et al., 2013', description: '16-year-old mango trees grafted on Maison Rouge in Reunion Island; Léchaudel et al., 2013'},{position: {lat: 26.3655, lng: 105.3423}, title: 'Pan et al., 2016', description: 'Yunnan and Guizhou provinces; Pan et al., 2016'}, {position: {lat: 44.513704033826876, lng: 11.407046798197202}, title: 'Lopez et al., 2018', description: 'Apple orchard located at the University of Bologna Experiment Research Station; Lopez et al., 2018'}
         ];
 
         markers.forEach(function(markerData) {
