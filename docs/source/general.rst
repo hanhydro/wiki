@@ -1,17 +1,8 @@
 Agrivoltaics general
 ==================
 
-Agrivoltaics concepts
+Agrivoltaics concepts (early)
 --------------------
-
-Time et al. (2024)
-+++++++++++++++++++++++++++
-Time, A., Gomez‐Casanovas, N., Mwebaze, P., Apollon, W., Khanna, M., DeLucia, E. H., & Bernacchi, C. J. (2024). Conservation agrivoltaics for sustainable food‐energy production. Plants, People, Planet. https://doi.org/10.1002/ppp3.10481.
-
-The integration of conservation agriculture management practices (CAMP) with agrivoltaics (AV) presents a promising solution to global challenges like climate change, food security, and sustainable land management. AV, which combines solar photovoltaic (PV) panels and food production on the same land, offers a unique way to simultaneously enhance energy and food security while minimizing land use conflicts. The success of AV as a climate change mitigation strategy depends largely on the adoption of CAMP strategies. These practices, which include methods like zero tillage, cover crops, crop rotation, and intercropping, can increase carbon storage, improve soil health, reduce greenhouse gas emissions, and enhance biodiversity. They also hold potential for better economic returns at both individual and societal levels.
-
-However, there are challenges to implementing CAMP in AV, notably economic considerations that may affect its attractiveness to individual farms despite its societal benefits. These societal benefits, such as reduced emissions and improved environmental quality, could be key to developing incentive programs and policy support. Research and data on the effectiveness of CAMP in AV systems are still developing, and more investigation is needed. The integration of these practices not only promises a more resilient and sustainable future but also emphasizes the role of policymakers, farmers, researchers, and other stakeholders in maximizing the potential of AV with CAMP.
-
 
 Turney and Fthenakis (2011)
 +++++++++++++++++++++++++++
@@ -24,6 +15,30 @@ The analysis highlights that solar power plants, over time, tend to require simi
 Regarding biodiversity and soil impact, the study observes that the effect of solar power varies with the biome, with forested areas raising the most significant concerns due to their high biodiversity. However, the overall impact on wildlife and habitats is minimal, especially in less biodiverse environments like deserts. Interestingly, the study suggests solar power installations could offer indirect benefits to local wildlife through mitigation efforts funded by solar projects.
 
 The potential impacts of solar power on geohydrological resources, including changes in soil infiltration rates, runoff ratios, and evapotranspiration, are recognized. However, these are deemed manageable with the implementation of appropriate mitigation strategies, which could mitigate risks to groundwater recharge and flooding. On the subject of climate change, solar power is heralded for its substantial contribution to greenhouse gas emission reductions, offering a stark contrast to the high emissions associated with traditional fossil fuel-based power generation.
+
+Dinesh and Pearce (2016)
++++++++++++++++++++++++++++
+Dinesh, H., & Pearce, J. M. (2016). The potential of agrivoltaic systems. Renewable and Sustainable Energy Reviews, 54, 299-308. https://doi.org/10.1016/j.rser.2015.10.024.
+
+This paper examines the concept of agrivoltaics, a symbiotic integration of agriculture and solar photovoltaic (PV) energy production on the same land. With the increasing demand for land due to a growing global population, and the need for renewable energy sources to combat climate change, agrivoltaics presents a solution to utilize land efficiently for dual purposes. The study reviews existing agrivoltaic experiments and introduces a coupled simulation model combining PV production and agricultural productivity to assess the potential of agrivoltaic systems.
+
+The study reveals that agrivoltaics can significantly enhance the economic value of land by over 30% compared to traditional agriculture alone, by integrating shade-tolerant crops with solar PV installations. This dual land use not only maintains crop yield stability by utilizing crops that can adapt to partial shade but also contributes to national PV power production. For instance, converting lettuce cultivation to agrivoltaic systems in the U.S. alone could generate an additional 40 to 70 GW of solar power.
+
+The research further discusses the technical aspects of agrivoltaic systems, including optimal tilt angles for PV panels to maximize solar energy capture while allowing enough light for crop growth. It also explores the benefits of agrivoltaics in reducing water evaporation, thus saving water, and potentially reducing soil erosion. Moreover, agrivoltaic systems could offer a sustainable energy source for irrigation, enhancing food security in areas with limited electricity access.
+
+Economic analyses suggest that agrivoltaic systems can be profitable, especially with the right crop selection and PV system design. The study emphasizes the need for further research on the shade tolerance of different crops and their productivity under agrivoltaic conditions. Additionally, exploring the economic viability, including the initial capital costs and the levelized cost of electricity (LCOE) of agrivoltaic systems, is crucial for future development.
+
+
+Agrivoltaics concepts (current)
+--------------------
+
+Time et al. (2024)
++++++++++++++++++++++++++++
+Time, A., Gomez‐Casanovas, N., Mwebaze, P., Apollon, W., Khanna, M., DeLucia, E. H., & Bernacchi, C. J. (2024). Conservation agrivoltaics for sustainable food‐energy production. Plants, People, Planet. https://doi.org/10.1002/ppp3.10481.
+
+The integration of conservation agriculture management practices (CAMP) with agrivoltaics (AV) presents a promising solution to global challenges like climate change, food security, and sustainable land management. AV, which combines solar photovoltaic (PV) panels and food production on the same land, offers a unique way to simultaneously enhance energy and food security while minimizing land use conflicts. The success of AV as a climate change mitigation strategy depends largely on the adoption of CAMP strategies. These practices, which include methods like zero tillage, cover crops, crop rotation, and intercropping, can increase carbon storage, improve soil health, reduce greenhouse gas emissions, and enhance biodiversity. They also hold potential for better economic returns at both individual and societal levels.
+
+However, there are challenges to implementing CAMP in AV, notably economic considerations that may affect its attractiveness to individual farms despite its societal benefits. These societal benefits, such as reduced emissions and improved environmental quality, could be key to developing incentive programs and policy support. Research and data on the effectiveness of CAMP in AV systems are still developing, and more investigation is needed. The integration of these practices not only promises a more resilient and sustainable future but also emphasizes the role of policymakers, farmers, researchers, and other stakeholders in maximizing the potential of AV with CAMP.
 
 Al Mamun et al. (2022)
 +++++++++++++++++++++++++++
@@ -74,6 +89,17 @@ The overview provided highlights the significant advancements and considerations
 - Future Directions and Research Needs: The report identifies several areas for future research, including improving the efficiency and reducing the costs of STPV modules, understanding the response of different crops to varying light conditions created by STPV systems, and developing innovative designs that maximize both energy production and crop yield.
 
 - Potential Benefits Beyond Energy and Food Production: Beyond the primary goals of energy generation and food production, agrivoltaics offer additional benefits, such as water conservation through reduced evaporation, protection of crops from extreme weather conditions, and potential improvements in plant growth conditions.
+
+Gonocruz et al. (2021)
++++++++++++++++++++++++++++
+Gonocruz, R. A., Nakamura, R., Yoshino, K., Homma, M., Doi, T., Yoshida, Y., & Tani, A. (2021). Analysis of the rice yield under an Agrivoltaic system: A case study in Japan. Environments, 8(7), 65. https://doi.org/10.3390/environments8070065.
+
+This study explores the integration of agrivoltaic systems in rice paddies, assessing their impact on rice crop yields while simultaneously generating renewable energy. Following the 2011 Great East Japan Earthquake and subsequent increase in energy importation, Japan has sought alternative energy sources, including renewable energy, to enhance energy security and reduce carbon emissions. Agrivoltaic systems, which combine photovoltaic panels with agriculture, are seen as a viable solution to utilize land efficiently for both food and energy production.
+
+The research focused on determining the optimal shading rate from photovoltaic panels that would allow rice paddies to maintain at least 80% of their yield, a requirement set by the Japanese Ministry of Agriculture, Forestry and Fisheries. Findings indicated that a shading rate between 27 to 39% could achieve this balance, suggesting that if agrivoltaic systems were applied at a 28% density across Japan's rice paddies, they could potentially generate 284 million MWh/yr, covering about 29% of Japan's total electricity demand as of 2018.
+
+The study conducted detailed experiments across several farms to evaluate the effects of shading on rice productivity, involving various meteorological measurements and crop sampling techniques to analyze the impacts on rice growth, yield, and quality. It was discovered that shading significantly influenced the number of panicles, a key factor in determining rice yield. Additionally, the study considered the potential electricity generation capabilities of agrivoltaic systems installed in rice paddies across Japan, highlighting their promise in contributing significantly to the country's renewable energy portfolio and helping achieve its carbon neutrality goals by 2050.
+
 
 
 Adverse effect
