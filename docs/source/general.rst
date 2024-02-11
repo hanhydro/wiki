@@ -47,6 +47,24 @@ Key discussin is as below. The International Energy Agency (IEA) emphasizes the 
 
 Important points are presented below. An analysis demonstrating the economic and social benefits of APV in rural Japan, suggesting that APV can significantly contribute to local energy demand and stimulate the economy. Research indicating that APV installations can have positive ecological impacts and support the expansion of renewable energy without compromising food production. Studies on the effects of APV on crop characteristics, such as yield, antioxidant capacity, and secondary metabolites, showing potential benefits for crop cultivation under APV systems. Experimental research on using polymer multilayers to reduce water evaporation, reflecting sunlight for PV electricity generation while conserving water for agriculture.
 
+Gorjian et al. (2022)
++++++++++++++++++++++++++++
+Gorjian, S., Bousi, E., Özdemir, Ö. E., Trommsdorff, M., Kumar, N. M., Anand, A., ... & Chopra, S. S. (2022). Progress and challenges of crop production and electricity generation in agrivoltaic systems using semi-transparent photovoltaic technology. Renewable and Sustainable Energy Reviews, 158, 112126. https://doi.org/10.1016/j.rser.2022.112126.
+
+The overview provided highlights the significant advancements and considerations in integrating photovoltaic (PV) technology with agriculture, a concept known as agrivoltaics. This integration aims to address the dual challenges of increasing global food demand and the need for clean energy production, offering a promising solution to optimize the use of land for both crop production and electricity generation. Below is the itemized summary of this paper
+
+- Global Trend and Growth of Agrivoltaics: The agrivoltaic sector has witnessed exponential growth, with installed capacity reaching 2.8 GW in 2020, up from 5 MW in 2012. This growth underscores the increasing recognition of agrivoltaics as a viable solution to co-locate agriculture and solar PV systems, maximizing land use efficiency.
+
+- Advent of Semi-Transparent PV (STPV) Modules: STPV modules represent a significant advancement in agrivoltaics, allowing for the simultaneous generation of electricity and passage of light necessary for crop growth. The study examines various STPV technologies, including crystalline silicon (c-Si), thin-film photovoltaics, organic PVs (OPVs), dye-sensitized solar cells (DSSCs), concentrating PVs (CPVs), and luminescent solar concentrators (LSCs), highlighting their applications in both open and closed agrivoltaic systems.
+
+- Technological and Economic Considerations: The report delves into the technological specifics, advantages, and challenges associated with each type of STPV technology. It discusses the importance of balancing the solar electricity generation efficiency of PV modules with the light transmission requirements of crops underneath, emphasizing the need for further technological enhancements and cost reductions to make STPV technologies more viable and sustainable.
+
+- Impact on Crop Growth: One of the critical considerations in agrivoltaic systems is ensuring that crops receive sufficient light for photosynthesis. The study explores innovative solutions to this challenge, such as the use of mosaic-structured and semi-transparent thin-film solar cells, which allow some light to pass through to the crops below. These solutions aim to mitigate the potential yield reduction caused by shading from PV panels.
+
+- Future Directions and Research Needs: The report identifies several areas for future research, including improving the efficiency and reducing the costs of STPV modules, understanding the response of different crops to varying light conditions created by STPV systems, and developing innovative designs that maximize both energy production and crop yield.
+
+- Potential Benefits Beyond Energy and Food Production: Beyond the primary goals of energy generation and food production, agrivoltaics offer additional benefits, such as water conservation through reduced evaporation, protection of crops from extreme weather conditions, and potential improvements in plant growth conditions.
+
 
 Adverse effect
 ---------------------------
