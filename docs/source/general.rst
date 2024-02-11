@@ -51,7 +51,6 @@ The findings suggest that the success of agrivoltaics varies significantly depen
 
 The review identifies key areas for future research, including a deeper exploration into the potential of berry crops and the effects of high temperatures on plant production. It calls for extensive, multi-year field experiments involving larger areas and the utilization of solar panels capable of separating the light spectrum to optimize both energy production and crop yields. Additionally, the review underscores the necessity of defining optimal daily light integrals for different species to tailor agrivoltaic systems more effectively to crop needs.
 
-
 Time et al. (2024)
 +++++++++++++++++++++++++++
 Time, A., Gomez‐Casanovas, N., Mwebaze, P., Apollon, W., Khanna, M., DeLucia, E. H., & Bernacchi, C. J. (2024). Conservation agrivoltaics for sustainable food‐energy production. Plants, People, Planet. https://doi.org/10.1002/ppp3.10481.
@@ -59,6 +58,18 @@ Time, A., Gomez‐Casanovas, N., Mwebaze, P., Apollon, W., Khanna, M., DeLucia, 
 The integration of conservation agriculture management practices (CAMP) with agrivoltaics (AV) presents a promising solution to global challenges like climate change, food security, and sustainable land management. AV, which combines solar photovoltaic (PV) panels and food production on the same land, offers a unique way to simultaneously enhance energy and food security while minimizing land use conflicts. The success of AV as a climate change mitigation strategy depends largely on the adoption of CAMP strategies. These practices, which include methods like zero tillage, cover crops, crop rotation, and intercropping, can increase carbon storage, improve soil health, reduce greenhouse gas emissions, and enhance biodiversity. They also hold potential for better economic returns at both individual and societal levels.
 
 However, there are challenges to implementing CAMP in AV, notably economic considerations that may affect its attractiveness to individual farms despite its societal benefits. These societal benefits, such as reduced emissions and improved environmental quality, could be key to developing incentive programs and policy support. Research and data on the effectiveness of CAMP in AV systems are still developing, and more investigation is needed. The integration of these practices not only promises a more resilient and sustainable future but also emphasizes the role of policymakers, farmers, researchers, and other stakeholders in maximizing the potential of AV with CAMP.
+
+Williams et al. (2023)
++++++++++++++++++++++++++++
+Williams, H. J., Hashad, K., Wang, H., & Zhang, K. M. (2023). The potential for agrivoltaics to enhance solar farm cooling. Applied Energy, 332, 120478. https://doi.org/10.1016/j.apenergy.2022.120478.
+
+This study delves into the innovative concept of agrivoltaics, a method that synergizes agricultural production and solar photovoltaic (PV) energy generation on the same land, aiming to address the growing global demands for food and renewable energy without exacerbating land-use conflicts. Through computational fluid dynamics (CFD)-based microclimate modeling validated by extensive field data, the research evaluates how agrivoltaic design features—specifically, the height of solar panels, ground albedo, and evapotranspiration—can significantly impact the microclimate and surface temperature of solar PV modules.
+
+By investigating various scenarios of panel heights and ground conditions, the study finds that agrivoltaic systems, particularly when solar panels are mounted at elevated heights with crops like soybeans beneath, can lead to substantial reductions in solar module temperatures. Such temperature reductions, which can be up to 10°C compared to traditional solar farms mounted over bare soil, not only improve solar PV conversion efficiency by mitigating efficiency losses associated with high temperatures but also support agricultural production through the creation of a more favorable microclimate for crops.
+
+The study underscores the potential of agrivoltaics to provide a dual solution to the challenges of climate change, land-use competition, and the global food-energy crisis. By optimizing solar farm design for passive cooling—through the strategic management of panel height, ground cover albedo, and leveraging evapotranspiration from crops—agrivoltaics can enhance the sustainability and efficiency of both solar energy production and agricultural practices.
+
+Further research is suggested to explore the thermal-fluid dynamics of bifacial modules and tracking systems within agrivoltaic setups, as well as to integrate crop models with thermal-fluid simulations for a comprehensive understanding of the agrivoltaic system's performance. Additionally, the study highlights the importance of considering social factors in the deployment of solar energy projects, suggesting a holistic approach to the development of agrivoltaic systems that balances technological, environmental, and social considerations.
 
 Al Mamun et al. (2022)
 +++++++++++++++++++++++++++
