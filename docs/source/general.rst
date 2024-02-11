@@ -1,6 +1,9 @@
 Agrivoltaics general
 ==================
 
+Agrivoltaics concepts
+--------------------
+
 Time et al. (2024)
 +++++++++++++++++++++++++++
 Time, A., Gomez‐Casanovas, N., Mwebaze, P., Apollon, W., Khanna, M., DeLucia, E. H., & Bernacchi, C. J. (2024). Conservation agrivoltaics for sustainable food‐energy production. Plants, People, Planet. https://doi.org/10.1002/ppp3.10481.
@@ -22,4 +25,9 @@ Regarding biodiversity and soil impact, the study observes that the effect of so
 
 The potential impacts of solar power on geohydrological resources, including changes in soil infiltration rates, runoff ratios, and evapotranspiration, are recognized. However, these are deemed manageable with the implementation of appropriate mitigation strategies, which could mitigate risks to groundwater recharge and flooding. On the subject of climate change, solar power is heralded for its substantial contribution to greenhouse gas emission reductions, offering a stark contrast to the high emissions associated with traditional fossil fuel-based power generation.
 
+Power generation efficiency
+---------------------------
 
+
+Adverse effect
+---------------------------
