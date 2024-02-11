@@ -28,9 +28,29 @@ The research further discusses the technical aspects of agrivoltaic systems, inc
 
 Economic analyses suggest that agrivoltaic systems can be profitable, especially with the right crop selection and PV system design. The study emphasizes the need for further research on the shade tolerance of different crops and their productivity under agrivoltaic conditions. Additionally, exploring the economic viability, including the initial capital costs and the levelized cost of electricity (LCOE) of agrivoltaic systems, is crucial for future development.
 
+Amaducci et al. (2018)
++++++++++++++++++++++++++++
+Amaducci, S., Yin, X., & Colauzzi, M. (2018). Agrivoltaic systems to optimise land use for electric energy production. Applied energy, 220, 545-561. https://doi.org/10.1016/j.apenergy.2018.03.081.
+
+This study investigates the concept of agrivoltaic systems, which integrate photovoltaic panels (PV) with crop production on the same land. Specifically, it examines the Agrovoltaico® system, a patented agrivoltaic solar tracking technology, through simulation studies focusing on maize crops in Northern Italy. Utilizing a 40-year climate dataset, the study compares various configurations of the Agrovoltaic system, including panel density and sun-tracking setup, against control simulations of irrigated maize under full light. The results demonstrate that agrivoltaic systems can reduce global radiation, modify soil temperature, evapotranspiration, and soil water balance, ultimately providing more favorable conditions for plant growth compared to full light conditions. Notably, the study finds that agrivoltaic systems can enhance crop resilience to climate change by improving average grain yield and stability, especially under drought conditions.
+
+The study utilizes the Land Equivalent Ratio (LER) to assess the benefit of combining renewable energy production with agriculture, finding that LER values are always above 1, indicating increased land productivity with agrivoltaic systems compared to conventional agriculture or ground-mounted PV systems alone. The most efficient agrivoltaic scenario produced twice as much energy per unit area as conventional systems. This research highlights the potential of agrivoltaic systems to produce renewable energy while preserving or even enhancing agricultural productivity, suggesting a valuable system for sustainable energy production on farms without negatively affecting land productivity.
+
+The agrivoltaic concept is presented as a solution to the competing demands for land between food and energy production, emphasizing its potential to mitigate the effects of climate change on agriculture. The study calls for further economic and environmental analyses to fully assess the sustainability and viability of agrivoltaic systems, suggesting that they could offer a promising approach to diversifying farm income and maximizing land use efficiency in the face of growing energy and food demands.
+
 
 Agrivoltaics concepts (current)
 --------------------
+Widmer et al. (2024)
++++++++++++++++++++++++++++
+Widmer, J., Christ, B., Grenz, J., & Norgrove, L. (2024). Agrivoltaics, a promising new tool for electricity and food production: A systematic review. Renewable and Sustainable Energy Reviews, 192, 114277. https://doi.org/10.1016/j.rser.2023.114277.
+
+This review highlights the burgeoning interest and potential of agrivoltaics, a symbiotic system integrating photovoltaic (PV) installations with agricultural production on the same land. The focus is primarily on how this innovative approach can address the growing global demand for food and renewable energy without exacerbating competition for agricultural land. Through a systematic literature search yielding 54 relevant studies, the review synthesizes current agronomic knowledge on agrivoltaics, emphasizing crop production under various PV configurations.
+
+The findings suggest that the success of agrivoltaics varies significantly depending on factors such as geographic location, seasonal conditions, and the type of crops grown. Notably, even traditionally light-demanding crops like maize may thrive under specific agrivoltaic conditions, advocating for a more nuanced understanding of crop light requirements beyond simple shade tolerance levels. Given the challenges posed by climate change, including extreme weather events and temperature fluctuations, agrivoltaics could offer a promising strategy to mitigate adverse impacts on crop yields while simultaneously reducing water consumption.
+
+The review identifies key areas for future research, including a deeper exploration into the potential of berry crops and the effects of high temperatures on plant production. It calls for extensive, multi-year field experiments involving larger areas and the utilization of solar panels capable of separating the light spectrum to optimize both energy production and crop yields. Additionally, the review underscores the necessity of defining optimal daily light integrals for different species to tailor agrivoltaic systems more effectively to crop needs.
+
 
 Time et al. (2024)
 +++++++++++++++++++++++++++
