@@ -4,6 +4,18 @@ Agrivoltaics general
 Agrivoltaics concepts (early)
 --------------------
 
+Dupraz et al. (2011)
++++++++++++++++++++++++++++
+Dupraz, C., Marrou, H., Talbot, G., Dufour, L., Nogier, A., & Ferard, Y. (2011). Combining solar photovoltaic panels and food crops for optimising land use: Towards new agrivoltaic schemes. Renewable energy, 36(10), 2725-2732. https://doi.org/10.1016/j.renene.2011.03.005.
+
+This paper explores the concept of agrivoltaics, which integrates agricultural crop production with solar photovoltaic (PV) energy generation on the same land. The study critically examines the efficiency of converting solar radiation into energy and food simultaneously, contrasting the low intrinsic efficiency of photosynthesis (around 3%) against the higher average yield of commercial monocrystalline solar PV panels (15%). Highlighting the competition for land between agriculture and solar energy production, the paper proposes agrivoltaics as a solution that could maximize land use efficiency by co-locating solar panels and food crops.
+
+The research utilizes Land Equivalent Ratios (LERs) to compare conventional agricultural practices and solar energy production with two densities of agrivoltaic systems. By modeling light transmission at the crop level under an array of solar panels and using a crop model to predict the productivity of partially shaded crops, the study predicts a significant increase in global land productivity (35–73%) for the agrivoltaic systems evaluated.
+
+The paper discusses the design of agrivoltaic systems, focusing on optimizing the balance between electricity generation and crop production by adjusting the density and orientation of solar panels. It suggests that agrivoltaic systems, through facilitation mechanisms similar to those found in agroforestry, may offer substantial benefits in terms of land productivity.
+
+The research outlines the development of a radiation interception model and its integration with the STICS crop model to simulate crop growth under agrivoltaic systems. Preliminary results indicate that agrivoltaic systems can significantly increase the efficiency of solar radiation use for producing both food and energy on the same land unit. The paper highlights the potential for agrivoltaic systems to contribute to food production and renewable energy generation, especially in regions where arable land is scarce.
+
 Turney and Fthenakis (2011)
 +++++++++++++++++++++++++++
 Turney, D., & Fthenakis, V. (2011). Environmental impacts from the installation and operation of large-scale solar power plants. Renewable and Sustainable Energy Reviews, 15(6), 3261-3270. https://doi.org/10.1016/j.rser.2011.04.023.
@@ -135,3 +147,21 @@ The study conducted detailed experiments across several farms to evaluate the ef
 
 Adverse effect
 ---------------------------
+
+
+Food-water-energy Nexus
+--------------------
+Temiz and Dincer (2024)
++++++++++++++++++++++++++++
+Temiz, M., & Dincer, I. (2024). Development of concentrated solar and agrivoltaic based system to generate water, food and energy with hydrogen for sustainable agriculture. Applied Energy, 358, 122539. https://doi.org/10.1016/j.apenergy.2023.122539.
+
+This comprehensive study introduces an innovative integrated energy system that synergizes agrivoltaic systems and concentrated solar power (CSP), termed as "agri-CSP," to address the critical nexus of water, food, and energy sustainability. By co-locating solar photovoltaics (PV) and CSP technologies on agricultural lands, the proposed system aims to maximize the utility of land resources while providing multiple benefits including electricity, heating, cooling, fresh water, and hydrogen production, thereby enhancing the self-sufficiency of farm communities.
+
+The study emphasizes the urgent need for sustainable and efficient utilization of resources in the face of climate change and growing global demands for energy, water, and food. It explores the potential of agrivoltaics—combining solar PV systems with agricultural production—and extends this concept by incorporating CSP technology to generate process heat, thus introducing the novel concept of agri-CSP.
+
+Different agrivoltaic orientations (vertical-fixed, tilted-fixed, and tracking) and the newly suggested agri-CSP system are comparatively assessed through simulations using actual meteorological data and commercially available products. The analysis reveals that agri-CSP and agrivoltaic systems can significantly contribute to the electricity supply of a hypothetical community, alongside producing substantial amounts of fresh water and hydrogen, essential for sustainable agriculture and energy storage.
+
+Key findings are summarized here. The agri-CSP system, alongside various agrivoltaic orientations, can make a community of 86,000 people self-sufficient in terms of energy, water, and hydrogen production. The integrated system demonstrates high overall energy and exergy efficiencies (59.95% and 41.01%, respectively), highlighting its effectiveness in utilizing solar energy. Different agrivoltaic orientations offer varied benefits, with the tracking orientation providing the highest electricity generation, while vertical-fixed and tilted-fixed orientations offer additional advantages for certain crop types. The integration of molten salt thermal energy storage and pumped-hydro storage systems enables the proposed system to address the intermittency of solar energy and ensure a continuous supply of power and heat.
+
+The study's approach to dynamically simulating the integrated system for an entire year under varying conditions demonstrates the feasibility and performance of agri-CSP in changing environments. This innovative concept not only minimizes the land footprint of solar energy systems but also addresses environmental concerns by generating clean energy, reducing greenhouse gas emissions, and supporting sustainable agricultural practices.
+
