@@ -25,6 +25,16 @@ Regarding biodiversity and soil impact, the study observes that the effect of so
 
 The potential impacts of solar power on geohydrological resources, including changes in soil infiltration rates, runoff ratios, and evapotranspiration, are recognized. However, these are deemed manageable with the implementation of appropriate mitigation strategies, which could mitigate risks to groundwater recharge and flooding. On the subject of climate change, solar power is heralded for its substantial contribution to greenhouse gas emission reductions, offering a stark contrast to the high emissions associated with traditional fossil fuel-based power generation.
 
+Al Mamun et al. (2022)
++++++++++++++++++++++++++++
+Al Mamun, M. A., Dargusch, P., Wadley, D., Zulkarnain, N. A., & Aziz, A. A. (2022). A review of research on agrivoltaic systems. Renewable and Sustainable Energy Reviews, 161, 112351. https://doi.org/10.1016/j.rser.2022.112351.
+
+This review on agrivoltaic systems presented synthesizes research findings on integrating crop production and photovoltaic (PV) power generation, aiming to address land use efficiency amidst growing demands for food and renewable energy. The review encompasses 98 studies, with a focus on engineering, financial models, and large-scale applications involving livestock grazing. It highlights the predominant research from the northern hemisphere, underscoring the need for comprehensive financial performance models and further exploration into large-scale agrivoltaic facilities that incorporate livestock.
+
+From the study, major points are indicated. A substantial increase in publications over the last five years, indicating growing interest and research activity in agrivoltaics. The majority of studies are peer-reviewed articles, with Applied Energy being a notable publication source. Research predominantly focuses on medium-to-large-scale PV systems, with a significant portion examining installations exceeding 1 MW. Geographic distribution of agrivoltaic research aligns with areas of high solar irradiation, yet the suitability also depends on local agricultural conditions. The scale of PV and land use economics is a crucial area of study, with half of the reviewed papers discussing facility sizes and the economic implications of agrivoltaics. Operational considerations and the practical influences of agrivoltaics on crop growth, water usage, and solar orientation are vital areas of research.
+
+Important insights in the study are below. A marked shift towards researching agrivoltaic applications in recent years, reflecting an increasing recognition of its potential to simultaneously address energy and agricultural production challenges. The identification of gaps in knowledge, particularly regarding the financial viability of large-scale agrivoltaic systems and their integration with livestock grazing, pointing to new directions for future research. A call for more detailed economic analyses and models to better understand the financial performance of agrivoltaic systems across different scales and settings.
+
 Power generation efficiency
 ---------------------------
 
