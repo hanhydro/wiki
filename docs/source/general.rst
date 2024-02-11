@@ -35,8 +35,17 @@ From the study, major points are indicated. A substantial increase in publicatio
 
 Important insights in the study are below. A marked shift towards researching agrivoltaic applications in recent years, reflecting an increasing recognition of its potential to simultaneously address energy and agricultural production challenges. The identification of gaps in knowledge, particularly regarding the financial viability of large-scale agrivoltaic systems and their integration with livestock grazing, pointing to new directions for future research. A call for more detailed economic analyses and models to better understand the financial performance of agrivoltaic systems across different scales and settings.
 
-Power generation efficiency
+Efficiency
 ---------------------------
+Liu et al. (2023)
++++++++++++++++++++++++++++
+Liu, W., Omer, A. A. A., & Li, M. (2023). Agrivoltaic: Challenge and Progress. Agronomy, 13(7), 1934. https://doi.org/10.3390/agronomy13071934.
+
+The article discusses the importance and development of Agricultural Photovoltaic (APV) systems as a solution to the challenges posed by the need for renewable energy expansion and the efficient use of land. With the increasing efficiency and decreasing cost of photovoltaic (PV) technology, solar energy emerges as a vital renewable resource to meet net-zero emissions targets and mitigate climate change. However, the integration of solar farms into agricultural land, known as APV, presents a promising yet complex strategy to harness solar energy without compromising valuable farmland.
+
+Key discussin is as below. The International Energy Agency (IEA) emphasizes the role of renewable energy technologies, particularly solar PV, in achieving the net-zero emissions goal by 2050 and limiting global warming. The efficiency of commercial PV modules has improved significantly, from about 15% in 2010 to approximately 23% today, while production costs have dropped substantially. APV systems face challenges, such as ensuring sufficient crop yield under the panels due to reduced sunlight, which is a crucial consideration for their widespread adoption. Contrary to concerns about insufficient light, there is evidence that excessive sunlight during certain times can harm crops, suggesting that APV could provide beneficial shading. Innovative solutions like Spectrum Splitting and Concentrated APV (SCAPV) and Even-lighting APV (EAPV) are being explored to optimize light management for both crop growth and solar power generation. The global installed capacity of APV reached around 14 GWp in 2021, indicating growing interest and investment in integrating solar energy production with agriculture.
+
+Important points are presented below. An analysis demonstrating the economic and social benefits of APV in rural Japan, suggesting that APV can significantly contribute to local energy demand and stimulate the economy. Research indicating that APV installations can have positive ecological impacts and support the expansion of renewable energy without compromising food production. Studies on the effects of APV on crop characteristics, such as yield, antioxidant capacity, and secondary metabolites, showing potential benefits for crop cultivation under APV systems. Experimental research on using polymer multilayers to reduce water evaporation, reflecting sunlight for PV electricity generation while conserving water for agriculture.
 
 
 Adverse effect
