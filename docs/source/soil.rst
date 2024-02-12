@@ -70,4 +70,26 @@ Rosetta3 builds upon Rosetta1 by integrating water retention and Ks submodels, e
 Summary of improvements is provided below:
 Significant reduction in matric potential-dependent bias for estimated water contents, particularly for pressures higher than 32 cm. Modest reductions in RMSE for water content (about 5% to 15% improvement) compared to Rosetta1, with a slight increase in RMSE for Ks (0.9% to 3.3%). The discovery that estimated distributions are non-Gaussian and align more closely with α-stable distributions, particularly in textures poorly represented in the calibration database.
 
+Carsel and Parrish (1988)
+++++++++++++++++++++++++
+Carsel, R. F., & Parrish, R. S. (1988). Developing joint probability distributions of soil water retention characteristics. Water resources research, 24(5), 755-769. https://doi.org/10.1029/WR024i005p00755.
+
+This article provides a detailed overview of the methodology and findings related to assessing the soil properties and uncertainty in groundwater contamination due to chemical transport through the unsaturated zone. Groundwater contamination is influenced by soil characteristics, spatial variability, and meteorological conditions, which contribute to the uncertainty in predicting chemical movement and eventual contamination levels. The text highlights the use of Monte Carlo simulation methods to address this uncertainty, leveraging probability density functions of model input parameters and accounting for correlations among these parameters.
+
+Core methods are:
+-  A key technique employed to evaluate the uncertainty of solute transport. This approach utilizes randomly generated time series to produce frequency distributions, which help in assessing the probability of groundwater contamination levels. Monte Carlo simulations require a detailed understanding of probability distributions for hydraulic parameters that influence water and solute movement in soil.
+- To address the lack of distributional and correlational information for hydraulic parameters, estimation methods are developed for essential parameters required by solute transport models. This enables the inference of associated probability distributions for model input parameters.
+- The Johnson system is used to fit empirical distributions for hydraulic parameters, providing a variety of forms suitable for data fitting. This system allows for the transformation of variables to achieve normally distributed variables, which is advantageous for Monte Carlo simulations.
+
+Important parameters are:
+- Coefficient of Variation (CV) is used to represent the variability in soil hydraulic properties, with higher CVs indicating greater variability. This parameter is crucial for understanding the spatial variability in soil characteristics that can affect chemical transport.
+- Probability Density Functions are developed for soil-saturated hydraulic conductivity and other hydraulic parameters, these functions are essential for characterizing the input parameters in solute transport models.
+- The inclusion of correlations in a multivariate normal distribution model allows for a more accurate representation of the relative frequencies of variables under study, indicating that some combinations of values are more or less probable than others.
+- The Johnson system's flexibility in fitting a variety of distribution forms makes it particularly useful for approximating many empirical distributions. The choice of transformation (lognormal, SB, or SU) depends on achieving the best fit to empirical data.
+
+Major findings are:
+- The study documents considerable variability in soil hydraulic properties, which significantly impacts the prediction of solute movement and groundwater contamination.
+- For various soil textural classes, probability density functions were developed for soil-saturated hydraulic conductivity and other hydraulic parameters, incorporating correlations among variables to more accurately represent their joint distribution.
+- Incorporating correlations among input variables in Monte Carlo simulations reduces uncertainty, as demonstrated by the reduction of uncertainty by one third when correlations are accommodated.
+
 
