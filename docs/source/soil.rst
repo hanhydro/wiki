@@ -68,6 +68,30 @@ Key points are:
 
 Parameter estimation
 ----------------------
+Hodnett and Tomasella (2002)
+++++++++++++++++++
+Hodnett, M. G., & Tomasella, J. (2002). Marked differences between van Genuchten soil water-retention parameters for temperate and tropical soils: a new water-retention pedo-transfer functions developed for tropical soils. Geoderma, 108(3-4), 155-180. https://doi.org/10.1016/S0016-7061(02)00105-2.
+
+This research focused on deriving Pedo-Transfer Functions (PTFs) for water retention in tropical soils, utilizing the IGBP-DIS soil database, which included data from 771 suitable horizons. The study aimed to fill the gap in understanding and predicting the hydraulic properties of tropical soils, which are often distinct from temperate region soils due to differences in texture, structure, and mineralogy.
+
+Core methods are:
+
+- Data Source: IGBP-DIS soil database with emphasis on tropical soils.
+- Key Parameters: The van Genuchten equation parameters (θs, θr, α, n) were derived for tropical soils and compared with temperate soil data sets.
+- Multiple regression techniques were used to develop both class and continuous PTFs, incorporating variables like soil texture, bulk density, and organic carbon content.
+
+Major findings are:
+
+- Tropical soils showed a higher proportion of clays and significantly lower bulk densities across various textural classes when compared to temperate soils. This influences the water retention characteristics, resulting in higher saturated water content (θs) and residual water content (θr) for tropical soils.
+
+- The α parameter, indicating the inverse of the air entry value, was generally higher for tropical soils, suggesting larger pore spaces and more structured soils, particularly in kaolinitic soils compared to montmorillonitic soils. The parameter n, which determines the steepness of the water-release curve, was also found to be significantly different when comparing tropical to temperate soils.
+
+- The study highlighted the importance of including mineralogy in PTFs, as it significantly affects the water retention properties, especially in tropical soils where kaolinitic and montmorillonitic clays behave differently.
+
+New PTF summary:
+
+- Class vs. Continuous PTFs: A continuous PTF was developed and found to predict water-retention curves more reliably than class PTFs for tropical soils. However, it was noted to be less reliable for soils with very low density, like Andosols.
+- Limitations: The research acknowledged the challenge in predicting the hydraulic properties of soils with extreme properties (either very high or very low α values) and the lack of hydraulic conductivity data as a significant gap for modeling water movement in tropical soils.
 
 Schaap et al. (2001)
 ++++++++++++++++++
