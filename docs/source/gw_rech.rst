@@ -91,3 +91,20 @@ The study finds that on-farm recharge is a viable option for the study area. Uti
 The study's methodology is adaptable for additional data, such as soil hydraulic conductivity, geology, infiltration testing, field drainage rates, flooding tolerance of different crops, and specific site costs, including use fees and infrastructure improvements.
 
 Future work could consider financial aspects, groundwater quality protection, support for the Cosumnes River baseflow, and diverse recharge facility types. Continued stakeholder collaboration is crucial for further insights.
+
+
+Estimation
+----------------
+Nimmo and Perkins (2018)
+++++++++++++++++++++
+Nimmo, J. R., & Perkins, K. S. (2018). Episodic master recession evaluation of groundwater and streamflow hydrographs for water‐resource estimation. Vadose Zone Journal, 17(1), 1-25. https://doi.org/10.2136/vzj2018.03.0050.
+
+The analysis provided on streamflow and groundwater hydrographs using a master recession curve (MRC) and the episodic master recession (EMR) method offers a comprehensive approach to understanding and quantifying watershed responses to storm events and other hydrologic inputs. This method allows for the detailed characterization of aquifer recharge, stormflow, and the interaction between groundwater and surface water, providing insights into the processes controlling the hydrologic cycle in a watershed. The structured iterative approach and parameterization of hydrologic judgment criteria facilitate the development of expert judgments and their transparent documentation, enhancing the reliability and repeatability of hydrologic analyses.
+
+The application of these methods to case studies, such as the Shale Hills Critical Zone Observatory, the Acqua della Madonna test area in the Terminio Mount karst aquifer, and the Reedy Creek watershed, demonstrates their versatility and the depth of insights they can provide into hydrologic processes. The ability to quantify episodic recharge and stormflow, along with the comparison of groundwater and streamflow hydrographs using similar algorithms, opens new avenues for understanding the dynamics of water movement within and between the surface and subsurface environments.
+
+The MRC method is used to characterize the relationship between a hydrologic response (e.g., streamflow, groundwater level) and its rate of change over time, specifically during recession periods when there is no significant external water input like rainfall. It plots the measured hydrologic response against its time derivative to create a curve that represents the system's behavior during recession periods. This relationship helps identify how the water system responds to inputs over time, facilitating comparisons across different events, sites, and time periods. MRC is applied to analyze the falling limb of hydrographs to understand aquifer recharge dynamics, stormflow characteristics, and the interaction between groundwater and surface water. It is especially useful in settings where hydrologic responses vary due to changes in subsurface properties or watershed characteristics.
+
+Building on the MRC, the EMR method quantifies the hydrologic effects of individual precipitation or input events on water resources like aquifer storage or streamflow. It focuses on episodic, or event-based, analysis of hydrograph data. EMR uses the parameters derived from MRC to distinguish between baseflow and stormflow (or recharge events in the case of groundwater) by comparing the observed rate of change in the hydrograph to what would be expected based on the MRC. It identifies significant deviations from the MRC as episodes, quantifying their characteristics (e.g., start/end times, magnitude). This method allows for detailed analysis of how specific storms or input events affect groundwater recharge and streamflow. It can help in understanding preferential flow paths, evaluating groundwater-surface water exchanges, and assessing the impact of various hydrologic processes on water resources.
+
+
