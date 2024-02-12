@@ -6,10 +6,11 @@ S.1778 - Agrivoltaics Research and Demonstration Act of 2023
 https://www.congress.gov/bill/118th-congress/senate-bill/1778/all-info
 
 
-H.R.1840 — 118th Congress (2023-2024)
+H.R.1840 — Agriculture Resilience Act of 2023, 118th Congress (2023-2024)
 -----------------
+https://www.congress.gov/bill/118th-congress/house-bill/1840
 
-- TITLE I: 
+- TITLE I - NATIONAL GOALS: 
 
 Title I of the legislation outlines national goals focused on combating climate change through significant reductions in greenhouse gas emissions within the agricultural sector. The primary aim is to prevent global temperatures from rising more than 1.5 degrees Celsius above preindustrial levels by setting ambitious targets for emission reductions: a 50-percent reduction by 2030 and achieving net zero emissions by 2040, compared to 2010 levels. To support these goals, the legislation sets forth several subgoals across different areas:
 
@@ -22,7 +23,7 @@ Title I of the legislation outlines national goals focused on combating climate 
 
 To implement these goals, the Secretary is tasked with developing a comprehensive action plan, open to public comment, that includes regulatory actions, incentives, research, and development programs. This plan aims to benefit farmers, ranchers, rural communities, and the environment while prioritizing investments that reduce emissions and sequester carbon. The Secretary must finalize the plan within 18 months of the Act's enactment, begin implementation, submit it to Congress, and provide annual updates and reports on progress.
 
-- TITLE II: 
+- TITLE II - RESEARCH: 
 
 Title II of the legislation focuses on research, extension, and education initiatives aimed at addressing climate change within the agricultural sector. It amends existing laws and establishes new programs to accelerate the transition of U.S. agriculture towards net-zero carbon emissions and beyond, to being carbon-negative. Key components include:
 
@@ -48,7 +49,7 @@ Title II of the legislation focuses on research, extension, and education initia
 
 Overall, Title II aims to modernize and enhance agricultural research, education, and extension efforts to better equip the sector to face the challenges of climate change, emphasizing sustainability, resilience, and carbon mitigation.
 
-- TITLE III:
+- TITLE III - SOIL HEALTH:
 
 Title III addresses soil health within the context of agricultural practices and policies, aiming to enhance environmental quality and combat climate change through various amendments and initiatives. Key points are:
 
@@ -88,7 +89,7 @@ Miscellaneous Provisions
 
 - Includes various technical adjustments and funding allocations to support the initiatives outlined in Title III, aiming to enhance soil health, reduce greenhouse gas emissions, and promote sustainable agricultural practices.
 
-TITLE IV:
+TITLE IV - FARMLAND PRESERVATION AND FARM VIABILITY:
 
 Title IV focuses on farmland preservation and farm viability, emphasizing the development and expansion of markets for agricultural products that contribute positively to soil health, carbon sequestration, and the reduction of greenhouse gas emissions. The key amendments and initiatives are:
 
@@ -118,7 +119,7 @@ Agricultural Conservation Easement Program Modifications
 
 These amendments aim to enhance environmental quality and sustainability in agriculture by supporting practices and markets that benefit soil health, promote carbon sequestration, and contribute to the reduction of greenhouse gas emissions, alongside ensuring the viability of farms and preservation of farmland.
 
-TITLE V:
+TITLE V - PASTURE-BASED LIVESTOCK:
 
 Title V introduces significant amendments and new programs focused on pasture-based livestock, animal raising claims, processing resilience, and alternative manure management. Key points are:
 
@@ -132,7 +133,7 @@ Conservation Reserve Program Enhancements expands and enhances the Conservation 
 
 Alternative Manure Management Program establishes a program to support carbon sequestration and greenhouse gas emissions reductions in dairy and livestock operations through alternative manure management practices. It provided funding for projects that reduce methane emissions, technical assistance for implementing alternative manure management measures, and incentives for small and mid-sized operations. It reduces greenhouse gas emissions from manure management, supports environmental and public health improvements near farming communities, and promotes sustainable livestock and dairy farming practices.
 
-TITLE VI:
+TITLE VI - ON-FARM RENEWABLE ENERGY:
 
 Title VI introduces significant enhancements to the Rural Energy for America Program (REAP), the establishment of studies and support for agrivoltaic systems, and the continuation of the AgSTAR program focusing on anaerobic digestion for methane emission reduction from livestock waste. Key points are:
 
@@ -142,4 +143,47 @@ Agrivoltaic Systems section conducts a comprehensive study on agrivoltaic system
 
 AgSTAR Program maintains and enhances the AgSTAR program within the USDA, focusing on promoting anaerobic digestion technologies in agriculture for methane emission reduction. It supports anaerobic digestion, provides outreach and technical assistance, promotes centralized digesters, and maintains a database of digester projects. It aims to reduce methane emissions from livestock waste through anaerobic digestion, supporting environmental sustainability and providing renewable energy sources. The program facilitates knowledge sharing and technical support to expand the adoption of anaerobic digesters in agriculture.
 
+TITLE VII - FOOD LOSS AND WASTE:
 
+Title VII addresses the issue of food loss and waste through several key sections aimed at standardizing food date labeling, promoting composting as a conservation practice, amending the Federal Food Donation Act, and establishing grants and programs for food waste reduction and energy projects. 
+
+Subtitle A - Food Date Labeling 
+- To reduce consumer confusion over food date labels ("BEST If Used By" for quality and "USE By" for discard dates) and decrease food waste.
+
+- Introduces uniform phrases for quality and discard dates, allowing for clearer communication regarding food safety and quality.
+
+- Aims to standardize food labeling across the U.S., potentially reducing the amount of food discarded due to misinterpretation of date labels.
+
+Subtitle B - Other Provisions
+
+Composting as Conservation Practice
+
+- Recognizes composting as a conservation practice and activity, promoting its use to improve water retention and soil health.
+
+- Encourages agricultural producers to engage in composting, supporting environmental sustainability and soil health improvement.
+
+Amendments to Federal Food Donation Act
+
+- Requires contracts for food service to include clauses for donating excess food and reporting on food waste, extending the scope to include Congress.
+
+- Aims to increase food donations and reduce waste through federal contracts, potentially providing more food to those in need.
+
+Grants for Composting and Anaerobic Digestion Food Waste-to-Energy Projects
+
+- stablishes a grant program for states to construct large-scale composting or anaerobic digestion projects for energy production from food waste.
+
+- Supports the development of renewable energy projects from food waste, promoting sustainability and energy independence.
+
+School Food Waste Reduction Grant Program
+
+- Provides grants to local educational agencies for projects that measure, prevent, and reduce food waste.
+- Encourages schools to engage in activities that reduce food waste and educate students on sustainable practices.
+
+Support for National Media Campaigns to Decrease Incidence of Food Waste
+
+- Funds national media campaigns aimed at reducing food waste.
+- Raises public awareness about food waste reduction, encouraging consumers to adopt more sustainable habits.
+
+Food Waste Research Program
+- Establishes a partnership with regional institutions to research food waste reduction and support related initiatives.
+- Enhances understanding of food waste issues and promotes the development of effective reduction strategies.
