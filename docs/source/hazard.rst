@@ -25,3 +25,21 @@ Additionally, the study highlights ecological concerns such as the potential for
 
 Given these varied potential impacts, the study advocates for adopting an adaptive management strategy. This would entail continuous monitoring and hypothesis testing to refine management practices and policies, aiming to reduce the environmental footprint of solar energy development, particularly concerning aquatic habitats and terrestrial ecosystems.
 
+Cuppari et al. (2021)
++++++++++++++++++++++++
+Cuppari, R. I., Higgins, C. W., & Characklis, G. W. (2021). Agrivoltaics and weather risk: A diversification strategy for landowners. Applied Energy, 291, 116809. https://doi.org/10.1016/j.apenergy.2021.116809.
+
+This research explores the financial viability and risk mitigation potential of agrivoltaic systems (AVS), which co-locate solar power production with agriculture on the same land. By using a model incorporating stochastic weather variables and commodity prices, the study compares the net revenues from solar-only, farm-only, and agrivoltaic plots across four scenarios involving different crops and regions (alfalfa and soybeans in Oregon; soybeans and strawberries in North Carolina). The findings highlight the significant potential of agrivoltaics to increase farmers' revenues by 300–5000% compared to farm-only operations, especially for crops with high financial risk due to weather and market conditions, like strawberries. Furthermore, agrivoltaics can diversify income streams, reducing revenue volatility and potentially serving as a partial alternative to federal crop insurance.
+
+Important findings are:
+
+- Annual Net Revenue Increase: Co-location can boost annual net revenues relative to farm-only scenarios by 300–5000%, with significant variability depending on the crop and location.
+- Risk Mitigation: For crops like strawberries, which are highly susceptible to weather and market risks, agrivoltaics can reduce revenue volatility by 48–53%, offering a more stable financial outlook.
+- Financial Stability: The integration of solar power with agriculture improves financial stability during volatile weather and market conditions, benefiting from the stable revenue streams of solar power.
+- Profitability and Risk Management: The study reveals that agrivoltaics not only increase profitability but also offer risk management benefits by lifting the worst-case net revenues and potentially reducing the need for crop insurance.
+- Sensitivity to Crop and Location: The benefits of agrivoltaics are highly dependent on the specific crop grown and the geographical location, highlighting the importance of targeted implementation strategies.
+
+
+
+
+
