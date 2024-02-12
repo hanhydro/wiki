@@ -21,7 +21,7 @@ Latest updates
 
 Current repository
 ----------------
-A total of 30 articles are summarized. To search for keywords, please type in the textbox on the upper left corner.
+50+ articles are summarized. To search for keywords, type in the textbox on the upper left corner.
 
 Studies by locality
 ----------------------
