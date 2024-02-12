@@ -152,4 +152,23 @@ Major findings are:
 
 - Incorporating correlations among input variables in Monte Carlo simulations reduces uncertainty, as demonstrated by the reduction of uncertainty by one third when correlations are accommodated.
 
+Wyatt et al. (2021)
+++++++++++++++++++++++++
+Wyatt, B. M., Ochsner, T. E., Brown, W. G., Diggins, D. C., Illston, B. G., & Fiebrich, C. A. (2021). MesoSoil v2. 0: An updated soil physical property database for the Oklahoma Mesonet. Vadose Zone Journal, 20(4), e20134. https://doi.org/10.1002/vzj2.20134.
+
+This study presents the development and evaluation of an updated Oklahoma Mesonet soil physical property database, MesoSoil v2.0, which incorporates the Rosetta3 pedotransfer function for estimating soil water retention parameters. The updated database aims to improve soil moisture estimates by incorporating soil sampling data from additional locations and using an advanced version of the Rosetta model for better prediction accuracy.
+
+- Rosetta3, an advanced hierarchical artificial neural network model, is utilized for estimating soil water retention parameters. This model unifies water retention and saturated hydraulic conductivity prediction models and is implemented in Python, offering advantages over the previous Rosetta1 model.
+
+- Soil physical properties were measured at various depths across over 100 Oklahoma Mesonet station locations. The comprehensive Rosetta model (H5) was primarily used for data analysis, supplemented by H2 and H3 models when input data were missing.
+
+- Linear interpolation was employed to estimate soil physical properties at the 10-cm depth for sites without measured data. This method showed good agreement with measured values, indicating its efficacy for filling data gaps.
+
+- The study compared estimated soil water retention parameters and their effects on volumetric water content estimates between the Rosetta1 and Rosetta3 models. Significant changes were observed, particularly in the parameter α, related to the inverse of the air-entry potential, which decreased in value.
+
+- Estimated Water Retention Parameters: The use of Rosetta3 led to statistically significant changes in estimated parameters. The most notable was a decrease in the α parameter, resulting in differences in volumetric water content estimates, especially during wet conditions.
+
+- Accuracy of Volumetric Water Content Estimates: The mean absolute differences (MAD) in volumetric water content estimates between the two models averaged 0.02 cm³ cm⁻³ across all site-years, with the updated MesoSoil v2.0 database providing estimates closer to measured values.
+
+- Improvement Over Previous Studies: Compared to the original Rosetta model, Rosetta3 and the updated database enhance the accuracy of soil moisture estimates, as evidenced by a better match with measured volumetric water content and a reduced MAD.
 
