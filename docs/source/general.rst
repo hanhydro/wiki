@@ -165,3 +165,24 @@ Key findings are summarized here. The agri-CSP system, alongside various agrivol
 
 The study's approach to dynamically simulating the integrated system for an entire year under varying conditions demonstrates the feasibility and performance of agri-CSP in changing environments. This innovative concept not only minimizes the land footprint of solar energy systems but also addresses environmental concerns by generating clean energy, reducing greenhouse gas emissions, and supporting sustainable agricultural practices.
 
+Lighting
+---------------------------
+Zheng et al. (2021)
++++++++++++++++++++++++++++
+Zheng, J., Meng, S., Zhang, X., Zhao, H., Ning, X., Chen, F., ... & Liu, W. (2021). Increasing the comprehensive economic benefits of farmland with Even-lighting Agrivoltaic Systems. PLoS One, 16(7), e0254482. https://doi.org/10.1371/journal.pone.0254482.
+
+The study introduces an innovative Even-lighting Agrivoltaic System (EAS), which integrates crop cultivation and electricity generation on the same land. The EAS aims to overcome the limitations of conventional agrivoltaic systems, such as uneven and low irradiance for crops, by utilizing a grooved glass plate to ensure even lighting. This approach not only promotes crop growth and yield but also enhances crop quality while generating electricity, aligning with the Chinese government's strategy for "Targeted Poverty Alleviation."
+
+Important findings are:
+
+- Land Equivalent Ratio (LER): The average LER for common vegetables under the EAS was calculated to be 1.64, indicating a superior land use efficiency compared to traditional methods.
+
+- Crop Yield and Quality: The EAS supported crop growth rates comparable to natural conditions, with some crops yielding better. Notably, by incorporating supplementary LED lamps, the soluble sugar content in lettuce increased by 72.14%, and the nitrate content decreased by 21.51%.
+
+- Economic Benefits: The comprehensive economic analysis revealed that the EAS could increase farmers' income by an average of 5.14 times, factoring in both the costs of installation and maintenance and the benefits from electricity generation and crop production.
+
+- Electricity Generation: The EAS's total installed capacity was 35 kW, with the system enhancing irradiance collection by 47.38% compared to conventional agrivoltaic systems, leading to substantial electricity production.
+
+- Improvements in Crop Growth Environment: The EAS provided a more uniform light environment for crops, significantly improving the light intensity received by the plants during the day compared to conventional systems.
+
+
