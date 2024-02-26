@@ -187,3 +187,8 @@ Support for National Media Campaigns to Decrease Incidence of Food Waste
 Food Waste Research Program
 - Establishes a partnership with regional institutions to research food waste reduction and support related initiatives.
 - Enhances understanding of food waste issues and promotes the development of effective reduction strategies.
+
+
+Bring more renewable energy to Wisconsin -- Kyungdoe Han
+-----------------
+https://madison.com/opinion/letters/letter-renewable-energy-wisconsin-climate-change/article_9df2d41c-d0ef-11ee-9395-031356c7aded.html
