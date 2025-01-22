@@ -17,7 +17,7 @@ Agrivoltaics (AV), or agrophotovoltaics (APV), is an innovative method that inte
 
 Latest updates
 ------------
-(Feb. 2nd, 2024) 
+(Jan. 20th, 2025) 
 
 Current repository
 ----------------
