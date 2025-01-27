@@ -238,7 +238,20 @@ The results revealed that water use per unit leaf area was consistently higher f
 
 Agrivoltaic evalution
 -------------------
-
-
+Joy et al. (2023)
+++++++++++++++++++++++++++++
 Joy, S. S., Khan, I., & Swaraz, A. M. (2023). A non-traditional Agrophotovoltaic installation and its impact on cereal crops: A case of the BRRI-33 rice variety in Bangladesh. Heliyon, 9(7). https://doi.org/10.1016/j.heliyon.2023.e17824
+
+The study investigates an alternative approach to Agrophotovoltaic (APV) installation that allows for rice cultivation beneath solar panels, minimizing agricultural land loss. Traditionally, solar irrigation pumps (SIPs) in Bangladesh are installed using fenced, isolated land, resulting in significant land wastage. With 10,000 SIPs planned by 2027, this could lead to the loss of 1,652 acres of farmland, a major concern for a land-scarce country like Bangladesh.
+
+This research tests a non-traditional APV setup on BRRI-33 rice, a widely cultivated high-yield variety, to assess the impact of discontinuous sunlight, soil conditions, and crop productivity. Results indicate that partial shading under APV does not significantly impact rice yield; instead, it enhances chlorophyll content, reduces soil temperature, and stabilizes soil pH, leading to potential water conservation benefits. The study suggests that APV can be successfully integrated into rice cultivation without compromising productivity, offering a sustainable land-use model for renewable energy and agriculture.
+
+This study shows that the traditional APV installations waste significant amounts of agricultural land since no crops are grown under solar panels. The study proposes a new installation method that allows for simultaneous rice cultivation and solar energy production, helping mitigate the loss of farmland. Discontinuous sunlight under APV structures had no statistically significant effect on BRRI-33 rice yield. The weight variation for 100 grains was between 1.45% and 4.82%, indicating that partial shading does not negatively affect rice production. 
+
+In this study, soil pH remains stable under shaded areas, preventing adverse effects on crop growth. Soil temperature is reduced by 1–2°C in shaded plots, which helps retain soil moisture and decreases irrigation demand. Higher chlorophyll content was observed in shaded plants, leading to healthier crop development.
+
+Plants in shaded areas grew taller than unshaded ones, producing more biomass, which can be utilized for bioenergy production or cattle feed. The higher biomass yield suggests additional economic benefits beyond rice production. Water Conservation Potential
+The lower soil temperature under APV reduces evaporation, leading to less irrigation demand. This can significantly contribute to sustainable water management in agriculture, particularly in regions with high irrigation requirements.
+
+
 
