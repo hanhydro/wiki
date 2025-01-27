@@ -253,5 +253,39 @@ In this study, soil pH remains stable under shaded areas, preventing adverse eff
 Plants in shaded areas grew taller than unshaded ones, producing more biomass, which can be utilized for bioenergy production or cattle feed. The higher biomass yield suggests additional economic benefits beyond rice production. Water Conservation Potential
 The lower soil temperature under APV reduces evaporation, leading to less irrigation demand. This can significantly contribute to sustainable water management in agriculture, particularly in regions with high irrigation requirements.
 
+Hermelink et al. (2024)
+++++++++++++++++++++++++++++
+Hermelink, M. I., Maestrini, B., & de Ruijter, F. J. (2024). Berry shade tolerance for agrivoltaics systems: A meta-analysis. Scientia Horticulturae, 330, 113062. https://doi.org/10.1016/j.scienta.2024.113062
 
+The study evaluates the shade tolerance of different berry crops—strawberry, blueberry, blackberry, and black currant—to assess their suitability for agrivoltaic (APV) systems. By conducting a meta-analysis of 22 studies, the research develops the first quantitative yield response curves for berries under varying levels of shade, distinguishing between low and high radiation intensity environments.
+
+Findings suggest that not all berries benefit equally from shade. While blueberry yields can increase under up to 50% shade at high radiation intensities, black currant, blackberry, and blueberry tolerate up to 35% shade before yield decline. Conversely, strawberry yield consistently declines with increasing shade, making it less suitable for agrivoltaics. These insights help optimize crop and panel density combinations, improving the economic and environmental feasibility of agrivoltaic installations.
+
+In this study, blueberry thrives under moderate shading (up to 50%) at high radiation intensities, making it a strong candidate for agrivoltaics. Blackberry and black currant tolerate up to 35% shade without yield loss but do not show significant yield benefits. Strawberry yields decline with increasing shade, making it less suitable for agrivoltaic systems.
+
+The study showes that nn high radiation environments, moderate shading can boost blueberry and blackberry yields by reducing heat stress. In low radiation environments, shading negatively affects yield across all berry types, emphasizing the need for site-specific agrivoltaic designs.
+
+Yield response curves show that small amounts of shade (e.g., 20-35%) are tolerable for most berries. Excessive shade (>50%) significantly reduces yield, limiting agrivoltaic viability for some berry types.
+
+The study briefly discusses taht shading decreases evapotranspiration, leading to higher water efficiency in berry production. Panels may replace plastic covers used in berry farming, reducing waste and operational costs.
+
+Reeza et al. (2024)
+++++++++++++++++++++++++++++
+Reeza, A. A., Noor, N. F. M., Ahmed, O. H., & Masuri, M. A. (2024). Shading Effect of Photovoltaic Panels on Growth of Selected Tropical Vegetable Crops. Scientia Horticulturae, 324, 112574. https://doi.org/10.1016/j.scienta.2023.112574
+
+The study examines the viability of agrivoltaics—combining solar photovoltaic (PV) energy production with crop cultivation, in a tropical climate. Conducted in Malaysia, the study evaluates the growth of seven vegetable crops (okra, eggplant, green spinach, Chinese cabbage, Chinese kale, Brazilian spinach, and pennywort) under different solar panel shade zones to assess their adaptability to agrivoltaic systems.
+
+Results indicate that shade tolerance varies significantly among crops, affecting growth rate, biomass, water content, and yield. While some crops, such as pennywort, eggplant, and Brazilian spinach, thrived under partial shade, others, including okra, green spinach, and Chinese kale, required full sunlight for optimal growth. The study suggests that certain vegetable crops can be integrated into solar parks without significantly affecting their productivity, offering a dual-use solution for land competition between energy generation and food production in tropical regions.
+
+Key findings of this article are in the following paragraphs. 
+The study shows taht crops respond differently to shade in agrivoltaic systems. Eggplant, Brazilian spinach, and Chinese cabbage grew well in the interspace area between panels, benefiting from partial shade. Pennywort performed best under the highest elevated panels (1.8m), showing a 52% growth increase compared to full sunlight. Okra, green spinach, and Chinese kale grew better in full sunlight and are less suitable for shaded agrivoltaic conditions. Low elevated panels (1.2m and 1.5m) created excessive shade, leading to crop failure for some species.
+
+Okra and eggplant experienced delayed growth (by ~2 weeks) but still produced comparable fruits under elevated panels. Green spinach, Chinese kale, and Chinese cabbage had significantly lower biomass under panels, suggesting they are poor candidates for agrivoltaics.
+Fresh weight and chlorophyll content declined under excessive shading, except for pennywort, which benefited from shade-induced leaf expansion.
+
+Crops in shaded areas retained more water compared to those in full sunlight, possibly reducing irrigation demands. Solar panels mitigated heat stress, which may benefit water-sensitive crops in tropical climates.
+
+Interspace areas between solar panels received enough sunlight for vegetable crops, making them suitable for agrivoltaic farming. Pest pressure was lower in shaded areas, likely due to reduced insect migration and wind currents.
+
+The paper implies/suggests that the best suited crops are Pennywort (under high-elevation panels), eggplant, Brazilian spinach, and Chinese cabbage (in interspaces). Crops that may not thrive are okra, green spinach, and Chinese kale, which require full sunlight.For panel settings, higher elevated solar panels (1.8 m; like Morey) allow for viable crop growth. Low-elevation panels (1.2m-1.5m) limit light availability, causing poor growth and crop failure.
 
