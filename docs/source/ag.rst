@@ -238,15 +238,7 @@ The results revealed that water use per unit leaf area was consistently higher f
 
 Agrivoltaic evalution
 -------------------
-Ya'acob, M. E., Lu, L., Zulkifli, S. A., Roslan, N., & Ahmad, W. W. (2023). Agrivoltaic approach in improving soil resistivity in large scale solar farms for energy sustainability. Applied Energy, 352, 121943. https://doi.org/10.1016/j.apenergy.2023.121943
 
-The study shows how integrating agrivoltaics can enhance the grounding system performance of large-scale solar (LSS) photovoltaic (PV) farms. It focuses on reducing soil resistivity, a key factor affecting electrical conductivity and the efficiency of solar energy systems. The research was conducted at the Puchong Solar Farm in Malaysia, where 500 herbal crops (Misai Kucing) were cultivated under PV panels. The agrivoltaic setup used drip fertigation to improve soil moisture and nutrient content, ultimately lowering soil resistivity and achieving a 4.45 Ω average reduction in earth resistance.
 
-The study shows that agrivoltaic integration improves grounding in solar farms. Growing plants under solar panels enhances soil conditions, lowering soil resistivity and improving grounding effectiveness. The reduction in earth resistance helps prevent electrical hazards, equipment failures, and voltage imbalances in solar farms, ensuring better operational safety and efficiency.  
-
-Soil resistivity decreases through nutrient leaching in this study. Nutrient leaching from ammonium sulfate fertilizer contributes to an increase in soil salinity and moisture, which enhances electrical conductivity. The leaching rate was measured at 40 mL per polybag, amounting to 60 L of leachate per day per PV string, significantly reducing soil resistivity.  
-
-A significant reduction in earth resistance was also observed. Earth resistance decreased by an average of 4.45 Ω across test points after the application of the nutrient solution. This value falls within acceptable grounding standards, making solar farms safer and more resilient to electrical faults, thereby reducing maintenance costs and the risk of power system failures.  
-
-The study discussed a cost-effective alternative to bentonite. The agrivoltaic approach eliminates the need for expensive soil enhancement materials like bentonite, which is traditionally used to improve soil conductivity. By leveraging crops and natural nutrient cycles, the system enhances grounding performance **without additional costs**, making it an economically viable alternative.  
+Joy, S. S., Khan, I., & Swaraz, A. M. (2023). A non-traditional Agrophotovoltaic installation and its impact on cereal crops: A case of the BRRI-33 rice variety in Bangladesh. Heliyon, 9(7). https://doi.org/10.1016/j.heliyon.2023.e17824
 
